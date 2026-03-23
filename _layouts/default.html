@@ -44,19 +44,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   {% if page.id %}
-    <title>Podcast Alarm - {{page.title}}</title>
-    <meta name="title" content="Podcast Alarm - {{page.title}}">
+    <title>{{page.title}}</title>
+    <meta name="title" content="{{page.title}}">
     <meta name="description" content="{{page.description}}">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.podcastalarm.app{{page.url}}">
-    <meta property="twitter:title" content="Podcast Alarm - {{page.title}}">
+    <meta property="twitter:title" content="{{page.title}}">
     <meta property="twitter:description" content="{{page.description}}">
     <meta property="twitter:image" content="https://www.podcastalarm.app{{page.featured-image}}">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Podcast Alarm - {{page.title}}" />
+    <meta property="og:title" content="{{page.title}}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://www.podcastalarm.app{{page.url}}" />
     <meta property="og:image" content="https://www.podcastalarm.app{{page.featured-image}}" />
@@ -101,6 +101,22 @@
       "description": "{{page.description}}"
     }
     </script>
+    {% if page.podcasts %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": "{{page.title}}",
+      "itemListElement": [{% for podcast in page.podcasts %}
+        {
+          "@type": "ListItem",
+          "position": {{ forloop.index }},
+          "name": "{{ podcast }}"
+        }{% unless forloop.last %},{% endunless %}{% endfor %}
+      ]
+    }
+    </script>
+    {% endif %}
   {% else %}
     <title>Podcast Alarm - Player and Alarm Clock app</title>
     <meta name="title" content="Podcast Alarm - Player and Alarm Clock app">
@@ -154,9 +170,9 @@
     </script>
   {% endif %}
 
-  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
-  <link rel="apple-touch-icon" href="/images/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192x192.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
 
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/styles.css">

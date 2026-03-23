@@ -7,6 +7,13 @@ featured-image: "/images/blog/smarter/dmitry-ratushny-O33IVNPb0RI-unsplash.jpg"
 featured-image-alt: "Photo by Dmitry Ratushny on Unsplash"
 description: "Hidden Brain, Freakonomics, Revisionist History and more — the best podcasts to make you smarter. Learn psychology, economics, history and science every episode."
 permalink: /blog/6-podcasts-that-will-make-you-smarter
+podcasts:
+  - "Revisionist History"
+  - "Hidden Brain"
+  - "Science Vs"
+  - "Intelligence Squared"
+  - "Stuff You Should Know"
+  - "Philosophize This!"
 author: "Telvin I."
 authorImage: "/images/blog/default.png"
 ---

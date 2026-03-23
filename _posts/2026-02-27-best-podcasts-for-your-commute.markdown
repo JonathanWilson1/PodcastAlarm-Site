@@ -6,6 +6,17 @@ featured-image: "/images/blog/Top10MorningPodcasts/podcastalarmbed.jpg"
 featured-image-alt: "Person listening to a podcast on their commute"
 description: "The Daily, Up First, Conan O'Brien and more — 10 podcasts sorted by commute length. Short ride or long journey, there's a perfect show for your trip."
 permalink: /blog/best-podcasts-for-your-commute
+podcasts:
+  - "The Daily"
+  - "Up First"
+  - "6 Minute English"
+  - "Freakonomics Radio"
+  - "SmartLess"
+  - "Conan O'Brien Needs a Friend"
+  - "Serial"
+  - "Huberman Lab"
+  - "The Rest Is History"
+  - "Diary of a CEO"
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
 ---

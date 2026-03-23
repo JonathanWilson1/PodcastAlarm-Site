@@ -7,6 +7,15 @@ featured-image: "/images/blog/ScienceLovers/laboratory-test-tubes.jpg"
 featured-image-alt: Laboratory with blue test tubes
 description: "StarTalk, Ologies, Science Vs, Radiolab and more — the best science podcasts for curious minds. Updated for 2026 with shows that make complex topics fascinating."
 permalink: /blog/top-podcasts-for-science-lovers
+podcasts:
+  - "StarTalk Radio"
+  - "Science Vs"
+  - "RadioLab"
+  - "Ologies"
+  - "Naked Scientist"
+  - "60 Second Science"
+  - "Stuff You Should Know"
+  - "The Infinite Monkey Cage"
 author: "Telvin I."
 authorImage: "/images/blog/default.png"
 ---

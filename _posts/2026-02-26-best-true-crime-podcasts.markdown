@@ -6,6 +6,15 @@ featured-image: "/images/blog/women/cowomen-UUPpu2sYV6E-unsplash.jpg"
 featured-image-alt: "Person listening to a true crime podcast"
 description: "Serial, Crime Junkie, Casefile and 5 more — the most gripping true crime podcasts with real investigations, cold cases and jaw-dropping twists."
 permalink: /blog/best-true-crime-podcasts
+podcasts:
+  - "Serial"
+  - "Crime Junkie"
+  - "Casefile True Crime"
+  - "My Favorite Murder"
+  - "Somebody Knows Something"
+  - "In the Dark"
+  - "Undisclosed"
+  - "RedHanded"
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
 ---

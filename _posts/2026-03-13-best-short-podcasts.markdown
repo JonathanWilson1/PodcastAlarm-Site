@@ -6,6 +6,17 @@ featured-image: "/images/blog/charts/best-short-podcasts/collage-banner.jpg"
 featured-image-alt: "Short podcasts under 20 minutes"
 description: "Up First, Short Wave, TED Talks Daily and 7 more short podcasts under 20 minutes — perfect for busy mornings, quick commutes and lunch breaks."
 permalink: /blog/best-short-podcasts
+podcasts:
+  - "Up First"
+  - "Short Wave"
+  - "The Indicator from Planet Money"
+  - "TED Talks Daily"
+  - "6 Minute English"
+  - "The Daily Stoic"
+  - "Before Breakfast"
+  - "Short Stuff"
+  - "The Memory Palace"
+  - "Science Quickly"
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
 ---
