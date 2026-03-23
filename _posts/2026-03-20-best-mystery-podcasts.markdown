@@ -70,4 +70,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Wake up to a mystery</h2>
 
-<p>Set a true crime podcast as your morning alarm and start the day hooked. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and wake up to your next favourite show.</p>
+<p>Set a true crime podcast as your morning alarm and start the day hooked. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and wake up to your next favourite show.</p>

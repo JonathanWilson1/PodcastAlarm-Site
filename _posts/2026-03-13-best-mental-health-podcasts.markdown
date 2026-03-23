@@ -66,4 +66,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Build a better morning</h2>
 
-<p>Starting your day with the right voice matters. Set a mental health podcast as your morning alarm and ease into each day with something that genuinely helps. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and wake up to something meaningful.</p>
+<p>Starting your day with the right voice matters. Set a mental health podcast as your morning alarm and ease into each day with something that genuinely helps. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and wake up to something meaningful.</p>

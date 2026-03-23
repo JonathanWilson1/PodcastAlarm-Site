@@ -60,4 +60,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Wake up to a great story</h2>
 
-<p>Set a documentary podcast as your morning alarm and start every day with something fascinating. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and never have a boring morning again.</p>
+<p>Set a documentary podcast as your morning alarm and start every day with something fascinating. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and never have a boring morning again.</p>

@@ -60,4 +60,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Queue up before you hit the road</h2>
 
-<p>Load up your road trip playlist the night before and let it play from the moment you leave. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and keep the drive interesting.</p>
+<p>Load up your road trip playlist the night before and let it play from the moment you leave. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and keep the drive interesting.</p>

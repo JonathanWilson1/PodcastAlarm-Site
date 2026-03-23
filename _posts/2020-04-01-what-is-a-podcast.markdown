@@ -44,7 +44,7 @@ authorImage: "/images/blog/me.jpeg"
 
 <p><a target="_blank" rel="noreferrer" href="https://open.spotify.com/" class="text-info">Spotify</a> is the biggest podcast platform in the world and works on both iPhone and Android. If you already use Spotify for music, your podcasts will be right there alongside your playlists.</p>
 
-<p>If you want to take it a step further, try <a target="_blank" rel="noreferrer" href="https://apps.apple.com/app/podcast-alarm/id1441890371" class="text-info">Podcast Alarm</a> — a podcast player that lets you set any episode as your morning alarm. Wake up to your favourite show instead of a buzzing ringtone.</p>
+<p>If you want to take it a step further, try <a target="_blank" rel="noreferrer" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8" class="text-info">Podcast Alarm</a> — a podcast player that lets you set any episode as your morning alarm. Wake up to your favourite show instead of a buzzing ringtone.</p>
 
 <br>
 <h2>How do I find a podcast I would like?</h2>

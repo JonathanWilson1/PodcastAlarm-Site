@@ -60,4 +60,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Wake up to music talk</h2>
 
-<p>Set a music podcast as your morning alarm and start the day hearing about the songs and artists you love. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and make your mornings sound better.</p>
+<p>Set a music podcast as your morning alarm and start the day hearing about the songs and artists you love. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and make your mornings sound better.</p>

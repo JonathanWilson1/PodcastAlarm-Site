@@ -64,4 +64,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Think deeper every morning</h2>
 
-<p>Start your day with a question worth thinking about. Set a philosophy podcast as your alarm and let big ideas wake you up. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and make your mornings more thoughtful.</p>
+<p>Start your day with a question worth thinking about. Set a philosophy podcast as your alarm and let big ideas wake you up. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and make your mornings more thoughtful.</p>

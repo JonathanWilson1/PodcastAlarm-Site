@@ -70,4 +70,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Start your morning with a story that matters</h2>
 
-<p>Set an investigative podcast as your alarm and wake up genuinely informed. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and make your mornings count.</p>
+<p>Set an investigative podcast as your alarm and wake up genuinely informed. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and make your mornings count.</p>

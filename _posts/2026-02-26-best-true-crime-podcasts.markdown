@@ -53,4 +53,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Wake up to a mystery</h2>
 
-<p>Set any of these podcasts as your morning alarm with <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Podcast Alarm</a>. There's no better motivation to get out of bed than finding out what happens next in a gripping investigation.</p>
+<p>Set any of these podcasts as your morning alarm with <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Podcast Alarm</a>. There's no better motivation to get out of bed than finding out what happens next in a gripping investigation.</p>

@@ -58,4 +58,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Something to share</h2>
 
-<p>Find a podcast you both love and listen together — on the commute, over breakfast, or on a long drive. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and make it part of your routine.</p>
+<p>Find a podcast you both love and listen together — on the commute, over breakfast, or on a long drive. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and make it part of your routine.</p>

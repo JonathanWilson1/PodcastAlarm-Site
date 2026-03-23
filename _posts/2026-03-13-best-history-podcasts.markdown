@@ -62,4 +62,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Listen on your schedule</h2>
 
-<p>Never miss an episode. Set your favourite history podcast as your morning alarm and start each day learning something new. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and wake up to history.</p>
+<p>Never miss an episode. Set your favourite history podcast as your morning alarm and start each day learning something new. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and wake up to history.</p>

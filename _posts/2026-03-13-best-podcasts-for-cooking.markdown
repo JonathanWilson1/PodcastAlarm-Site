@@ -58,4 +58,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Cook with company</h2>
 
-<p>Put a podcast on while you cook and the kitchen stops feeling like a chore. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and have something great playing the moment you start prepping.</p>
+<p>Put a podcast on while you cook and the kitchen stops feeling like a chore. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and have something great playing the moment you start prepping.</p>

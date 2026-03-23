@@ -66,4 +66,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Hit the ground running</h2>
 
-<p>Set a podcast as your alarm, lace up, and head out the door already listening. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and make every run better.</p>
+<p>Set a podcast as your alarm, lace up, and head out the door already listening. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and make every run better.</p>

@@ -41,4 +41,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Set a bedtime alarm</h2>
 
-<p>Podcast Alarm isn't just for mornings. Set an evening alarm to remind yourself it's time to wind down, and let your favourite sleep podcast play automatically. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and build a better bedtime routine.</p>
+<p>Podcast Alarm isn't just for mornings. Set an evening alarm to remind yourself it's time to wind down, and let your favourite sleep podcast play automatically. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and build a better bedtime routine.</p>

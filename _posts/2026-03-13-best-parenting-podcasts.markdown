@@ -62,4 +62,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Squeeze in some wisdom</h2>
 
-<p>Parents don't have spare time — but you do have a morning alarm. Set a parenting podcast to play when you wake up and start the day with something useful. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and make those early mornings count.</p>
+<p>Parents don't have spare time — but you do have a morning alarm. Set a parenting podcast to play when you wake up and start the day with something useful. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and make those early mornings count.</p>

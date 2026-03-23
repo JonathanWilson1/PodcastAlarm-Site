@@ -66,4 +66,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Learn a language in your sleep (almost)</h2>
 
-<p>Set a language podcast as your alarm and squeeze in a lesson before you're even out of bed. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and make every morning a mini lesson.</p>
+<p>Set a language podcast as your alarm and squeeze in a lesson before you're even out of bed. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and make every morning a mini lesson.</p>

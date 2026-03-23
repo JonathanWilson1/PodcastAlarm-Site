@@ -66,4 +66,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Never miss the action</h2>
 
-<p>Wake up to the latest takes from your favourite sports podcast. Set it as your alarm and start game day right. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and never miss a moment.</p>
+<p>Wake up to the latest takes from your favourite sports podcast. Set it as your alarm and start game day right. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and never miss a moment.</p>

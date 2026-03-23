@@ -62,4 +62,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Kick-start your morning</h2>
 
-<p>Set a health podcast as your alarm and start each day with the motivation to look after yourself. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and wake up ready to move.</p>
+<p>Set a health podcast as your alarm and start each day with the motivation to look after yourself. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and wake up ready to move.</p>

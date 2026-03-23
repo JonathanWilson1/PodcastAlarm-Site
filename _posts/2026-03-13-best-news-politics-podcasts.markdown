@@ -70,4 +70,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Start informed every morning</h2>
 
-<p>Set a news podcast as your alarm and wake up knowing what happened overnight. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and replace doomscrolling with something better.</p>
+<p>Set a news podcast as your alarm and wake up knowing what happened overnight. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and replace doomscrolling with something better.</p>

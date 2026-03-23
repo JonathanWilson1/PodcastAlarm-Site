@@ -62,4 +62,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Understand the world better</h2>
 
-<p>Set an economics podcast as your alarm and start each day understanding how the world actually works. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and wake up thinking bigger.</p>
+<p>Set an economics podcast as your alarm and start each day understanding how the world actually works. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and wake up thinking bigger.</p>

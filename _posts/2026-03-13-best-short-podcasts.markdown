@@ -75,4 +75,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Perfect for your morning alarm</h2>
 
-<p>Short podcasts are ideal for waking up to — you get a full episode before you've even left the house. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and start every day with a quick listen.</p>
+<p>Short podcasts are ideal for waking up to — you get a full episode before you've even left the house. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and start every day with a quick listen.</p>

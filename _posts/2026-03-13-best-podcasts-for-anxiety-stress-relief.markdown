@@ -66,4 +66,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>A calmer start to the day</h2>
 
-<p>Morning anxiety is real. Set a calming podcast as your alarm and ease into the day instead of jolting awake. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and start every morning gently.</p>
+<p>Morning anxiety is real. Set a calming podcast as your alarm and ease into the day instead of jolting awake. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and start every morning gently.</p>

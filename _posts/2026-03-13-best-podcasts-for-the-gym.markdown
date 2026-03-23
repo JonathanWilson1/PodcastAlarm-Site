@@ -60,4 +60,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>From alarm to gym in one tap</h2>
 
-<p>Set a podcast as your alarm and head straight to the gym already listening. No awkward silence on the way there. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and make early gym sessions easier.</p>
+<p>Set a podcast as your alarm and head straight to the gym already listening. No awkward silence on the way there. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and make early gym sessions easier.</p>

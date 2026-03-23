@@ -58,4 +58,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Step out the door already listening</h2>
 
-<p>Set a podcast as your morning alarm, grab your headphones, and head out for a walk. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and turn every walk into the best part of your day.</p>
+<p>Set a podcast as your morning alarm, grab your headphones, and head out for a walk. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and turn every walk into the best part of your day.</p>

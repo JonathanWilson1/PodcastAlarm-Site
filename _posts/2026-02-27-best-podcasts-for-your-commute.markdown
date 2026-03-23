@@ -77,4 +77,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Make your commute even better</h2>
 
-<p>With <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Podcast Alarm</a>, you can set your favourite commute podcast as your morning alarm. Wake up to the latest episode, then carry on listening as you head to work.</p>
+<p>With <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Podcast Alarm</a>, you can set your favourite commute podcast as your morning alarm. Wake up to the latest episode, then carry on listening as you head to work.</p>

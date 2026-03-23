@@ -58,4 +58,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Download before you board</h2>
 
-<p>Queue up your flight playlist before takeoff and you're sorted for the whole journey. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and never be stuck with just the in-flight entertainment.</p>
+<p>Queue up your flight playlist before takeoff and you're sorted for the whole journey. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and never be stuck with just the in-flight entertainment.</p>

@@ -60,4 +60,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Dare to wake up scared</h2>
 
-<p>Set a horror podcast as your alarm — if you're brave enough. Nothing gets your heart rate up in the morning quite like it. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and wake up to something spine-tingling.</p>
+<p>Set a horror podcast as your alarm — if you're brave enough. Nothing gets your heart rate up in the morning quite like it. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and wake up to something spine-tingling.</p>

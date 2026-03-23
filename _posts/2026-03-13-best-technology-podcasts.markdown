@@ -64,4 +64,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Stay ahead of the curve</h2>
 
-<p>Set a tech podcast as your morning alarm and start every day knowing what matters in technology. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and wake up plugged in.</p>
+<p>Set a tech podcast as your morning alarm and start every day knowing what matters in technology. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and wake up plugged in.</p>

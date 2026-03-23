@@ -62,4 +62,4 @@ authorImage: "/images/blog/me.png"
 
 <h2>Make your commute count</h2>
 
-<p>Turn your morning routine into a masterclass. Set a business podcast as your alarm and start every day with ideas worth hearing. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371">Download Podcast Alarm</a> and wake up smarter.</p>
+<p>Turn your morning routine into a masterclass. Set a business podcast as your alarm and start every day with ideas worth hearing. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and wake up smarter.</p>
