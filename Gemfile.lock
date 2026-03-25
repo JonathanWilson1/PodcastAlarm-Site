@@ -10,6 +10,7 @@ GEM
     addressable (2.8.8)
       public_suffix (>= 2.0.2, < 8.0)
     base64 (0.3.0)
+    bigdecimal (4.0.1)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -272,6 +273,7 @@ PLATFORMS
   arm64-darwin-24
 
 DEPENDENCIES
+  bigdecimal
   github-pages
   jekyll-feed
   jekyll-gzip
@@ -282,4 +284,4 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   2.4.19
+  4.0.8
