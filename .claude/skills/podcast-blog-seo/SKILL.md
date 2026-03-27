@@ -85,6 +85,10 @@ The script reports NOT FOUND and WRONG MATCH separately. For every NOT FOUND or 
 - Re-run the script
 - Repeat until zero failures
 
+### Step 3b: Visually verify every image
+
+Use the Read tool on each downloaded `.jpg` to view the artwork. The script name-matching is unreliable — "Serial" returned "Slate's Serial Spoiler Specials", "RedHanded" returned a completely different show. **You must eyeball every image** before wiring it into the post.
+
 ### Step 4: Verify before deploying
 
 ```bash
@@ -95,7 +99,20 @@ grep "kelly-sikkema" _posts/YOUR-POST.markdown | grep -v "featured-image"
 grep "100UK2020" _posts/YOUR-POST.markdown | grep -v "featured-image"
 ```
 
-### Step 5: Commit and push
+### Step 5: Preview locally
+
+The system Ruby (2.6) is too old. Use Homebrew Ruby:
+
+```bash
+export PATH="/opt/homebrew/opt/ruby/bin:/opt/homebrew/lib/ruby/gems/3.4.0/bin:$PATH"
+bundle exec jekyll serve
+# Site at http://127.0.0.1:4000
+```
+
+If port 4000 is already in use, the site is already running — just reload the page.
+Check the post in the browser before pushing.
+
+### Step 6: Commit and push
 
 ```bash
 git add _posts/ images/

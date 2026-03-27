@@ -4,17 +4,17 @@ title: "8 Best True Crime Podcasts in 2026 (Can't Stop Listening)"
 categories: Podcast
 featured-image: "/images/blog/women/cowomen-UUPpu2sYV6E-unsplash.jpg"
 featured-image-alt: "Person listening to a true crime podcast"
-description: "Serial, Crime Junkie, Casefile and 5 more — the most gripping true crime podcasts with real investigations, cold cases and jaw-dropping twists."
+description: "Crime Junkie, Casefile, Morbid, Rotten Mango and more — the best true crime podcasts for cold cases, investigations and jaw-dropping twists."
 permalink: /blog/best-true-crime-podcasts
 podcasts:
-  - "Serial"
   - "Crime Junkie"
   - "Casefile True Crime"
   - "My Favorite Murder"
-  - "Somebody Knows Something"
-  - "In the Dark"
-  - "Undisclosed"
-  - "RedHanded"
+  - "Morbid"
+  - "Sword and Scale"
+  - "True Crime Obsessed"
+  - "Rotten Mango"
+  - "Last Podcast On The Left"
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
 ---
@@ -25,29 +25,45 @@ authorImage: "/images/blog/me.png"
 
 <br>
 
-<h3>1. Serial</h3>
-<p>The one that started it all. Season one investigated the 1999 murder of Hae Min Lee and became the fastest podcast to reach 5 million downloads. Each season tackles a different case with the depth and storytelling of a great novel. If you haven't listened yet, start here.</p>
+<h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Crime+Junkie">1. Crime Junkie</a></h3>
+<img src="/images/blog/charts/best-true-crime-podcasts/crime-junkie.jpg" alt="Crime Junkie podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
+<p>Hosted by Ashley Flowers and Brit Prawat, Crime Junkie is one of the biggest podcasts in the world with over 3 billion downloads. Every Monday, they cover a new case in a tight, well-researched 30–45 minute episode. The format is consistent and addictive — perfect for a weekly listen.</p>
+<br style="clear:both;">
 
-<h3>2. Crime Junkie</h3>
-<p>Hosted by Ashley Flowers and Brit Prawat, Crime Junkie is the number two podcast in the US with over 3 billion downloads. Every Monday, they cover a new case in a tight, well-researched 30–45 minute episode. The format is consistent and addictive — perfect for a weekly listen.</p>
-
-<h3>3. Casefile True Crime</h3>
+<h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Casefile+True+Crime">2. Casefile True Crime</a></h3>
+<img src="/images/blog/charts/best-true-crime-podcasts/casefile.jpg" alt="Casefile True Crime podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
 <p>An Australian podcast with an anonymous host, Casefile stands out for its meticulous research and respectful treatment of victims. It covers international cases that other podcasts miss, with episodes ranging from 30 minutes to multi-part deep dives.</p>
+<br style="clear:both;">
 
-<h3>4. My Favorite Murder</h3>
+<h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=My+Favorite+Murder">3. My Favorite Murder</a></h3>
+<img src="/images/blog/charts/best-true-crime-podcasts/my-favorite-murder.jpg" alt="My Favorite Murder podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
 <p>Karen Kilgariff and Georgia Hardstark blend true crime with comedy in a way that shouldn't work but absolutely does. Their conversational style and genuine friendship make heavy topics more approachable. The show has spawned live tours, books, and an entire podcast network.</p>
+<br style="clear:both;">
 
-<h3>5. Somebody Knows Something</h3>
-<p>CBC journalist David Ridgen reopens cold cases and actually makes progress on them. This is investigative journalism at its best — Ridgen has helped lead to real-world breakthroughs in unsolved cases. Each season follows one story with remarkable depth.</p>
+<h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Morbid+True+Crime">4. Morbid</a></h3>
+<img src="/images/blog/charts/best-true-crime-podcasts/morbid.jpg" alt="Morbid podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
+<p>Alaina Urquhart and Ash Kelley cover everything from well-known serial killers to obscure historical cases. Alaina's background as an autopsy technician adds a forensic edge you won't find elsewhere. Episodes mix deep research with genuine banter between the hosts.</p>
+<br style="clear:both;">
 
-<h3>6. In the Dark</h3>
-<p>Award-winning investigative journalism from APM Reports. Season two, which covers the case of Curtis Flowers, is widely considered one of the best podcast seasons ever made. It exposed serious problems in the American justice system and contributed to real legal outcomes.</p>
+<h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Sword+and+Scale">5. Sword and Scale</a></h3>
+<img src="/images/blog/charts/best-true-crime-podcasts/sword-and-scale.jpg" alt="Sword and Scale podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
+<p>Hosted by Mike Boudet, Sword and Scale uses real audio from 911 calls, courtroom recordings, and interviews to tell stories that are unsettling and hard to forget. It doesn't shy away from the darkest cases, so it's not for the faint-hearted.</p>
+<br style="clear:both;">
 
-<h3>7. Undisclosed</h3>
-<p>A deep dive into wrongful convictions, Undisclosed examines cases where the evidence doesn't add up. Hosted by attorneys, it brings legal expertise to cases that deserve a second look. If you finished Serial wanting more, this is your next listen.</p>
+<h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=True+Crime+Obsessed">6. True Crime Obsessed</a></h3>
+<img src="/images/blog/charts/best-true-crime-podcasts/true-crime-obsessed.jpg" alt="True Crime Obsessed podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
+<p>Patrick Hinds and Gillian Pensavalle recap true crime documentaries with sharp commentary and genuine laughs. If you've just watched a Netflix doc and need someone to debrief with, this is your podcast. They balance humour with respect for the cases brilliantly.</p>
+<br style="clear:both;">
 
-<h3>8. RedHanded</h3>
-<p>British hosts Suruthi Bala and Hannah Maguire cover true crime from around the world with sharp analysis and dark humour. Their UK perspective sets them apart from the American-dominated true crime scene, and they consistently tackle lesser-known international cases.</p>
+<h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Rotten+Mango">7. Rotten Mango</a></h3>
+<img src="/images/blog/charts/best-true-crime-podcasts/rotten-mango.jpg" alt="Rotten Mango podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
+<p>Stephanie Soo covers international true crime cases that rarely get attention in English-language media. Her storytelling is gripping and she digs into the cultural context behind each case. One of the fastest-growing true crime podcasts for good reason.</p>
+<br style="clear:both;">
+
+<h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Last+Podcast+On+The+Left">8. Last Podcast On The Left</a></h3>
+<img src="/images/blog/charts/best-true-crime-podcasts/last-podcast-on-the-left.jpg" alt="Last Podcast On The Left podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
+<p>Ben Kissel, Marcus Parks, and Henry Zebrowski tackle serial killers, cults, and the paranormal with deep research wrapped in dark comedy. Episodes are long, chaotic, and incredibly well-researched. If you want true crime that doesn't take itself too seriously, start here.</p>
+<br style="clear:both;">
 
 <br>
 
