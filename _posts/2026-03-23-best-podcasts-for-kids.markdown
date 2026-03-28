@@ -4,7 +4,7 @@ title: "Best Podcasts for Kids (2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-podcasts-for-kids/collage-banner.jpg"
 featured-image-alt: "Best podcasts for kids 2026"
-description: "Little Stories for Tiny People, Brains On, Story Pirates and more — the 10 best podcasts for kids in 2026. Fun, educational and screen-free."
+description: "Little Stories for Tiny People, Brains On, Story Pirates and more — the 10 best podcasts for kids in 2026. Stories, science and laughs for ages 3–12."
 permalink: /blog/best-podcasts-for-kids
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"

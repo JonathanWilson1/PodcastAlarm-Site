@@ -4,7 +4,7 @@ title: "Best Daily News Podcasts (2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-daily-news-podcasts/collage-banner.jpg"
 featured-image-alt: "Best daily news podcasts 2026"
-description: "The Daily, Up First, Today in Focus, Pod Save America and more — the 10 best daily news podcasts to stay informed in 2026."
+description: "The Daily, Up First, Today in Focus, Pod Save America and more — the 10 best daily news podcasts for your morning routine in 2026."
 permalink: /blog/best-daily-news-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
