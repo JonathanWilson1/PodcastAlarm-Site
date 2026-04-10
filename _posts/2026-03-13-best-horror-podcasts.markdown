@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Best Horror Podcasts (2026)"
+title: "10 Best Horror Podcasts (2026) — Terrifying Stories to Keep You Up"
 categories: Podcast
 featured-image: "/images/blog/charts/best-horror-podcasts/collage-banner.jpg"
 featured-image-alt: "Horror podcasts collection"
-description: "The Magnus Protocol, Lore, The NoSleep Podcast and 7 more — the best horror podcasts for fiction, folklore and the genuinely unexplained."
+description: "The Magnus Protocol, Lore and The NoSleep Podcast — the best horror podcasts for truly terrifying fiction, dark folklore and real unexplained encounters."
 permalink: /blog/best-horror-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Best Short Podcasts Under 20 Minutes (2026)"
+title: "10 Best Short Podcasts Under 20 Minutes (2026) — Quick Daily Listens"
 categories: Podcast
 featured-image: "/images/blog/charts/best-short-podcasts/collage-banner.jpg"
 featured-image-alt: "Short podcasts under 20 minutes"
-description: "Up First, Short Wave, TED Talks Daily and 7 more short podcasts under 20 minutes — perfect for busy mornings, quick commutes and lunch breaks."
+description: "Up First, Short Wave and TED Talks Daily — the best short podcasts under 20 minutes for busy mornings, quick commutes and lunch-break listens."
 permalink: /blog/best-short-podcasts
 podcasts:
   - "Up First"

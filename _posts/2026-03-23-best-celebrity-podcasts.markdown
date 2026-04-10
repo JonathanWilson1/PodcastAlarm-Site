@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Best Celebrity Podcasts (2026)"
+title: "10 Best Celebrity Interview Podcasts (2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-celebrity-podcasts/collage-banner.jpg"
 featured-image-alt: "Best celebrity podcasts 2026"
-description: "SmartLess, Armchair Expert and Conan O'Brien Needs a Friend lead our pick of the 10 best celebrity podcasts for 2026."
+description: "SmartLess, Armchair Expert and Conan O'Brien — the best celebrity interview podcasts where famous guests actually say something real."
 permalink: /blog/best-celebrity-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "10 Best Podcasts for Your Commute in 2026"
+title: "Best Podcasts for Your Commute (2026) — Short Episodes for the Drive"
 categories: Podcast
 featured-image: "/images/blog/Top10MorningPodcasts/podcastalarmbed.jpg"
 featured-image-alt: "Person listening to a podcast on their commute"
-description: "The Daily, Up First, Conan O'Brien and more — 10 podcasts sorted by commute length. Short ride or long journey, there's a perfect show for your trip."
+description: "The Daily, Up First and SmartLess — 10 commute-friendly podcasts sorted by episode length, from 10-minute news to hour-long interviews for the drive."
 permalink: /blog/best-podcasts-for-your-commute
 podcasts:
   - "The Daily"

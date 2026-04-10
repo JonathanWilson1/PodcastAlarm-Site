@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Best Podcasts for Road Trips (2026)"
+title: "10 Best Podcasts for Road Trips (2026) — Hours of Gripping Listens"
 categories: Podcast
 featured-image: "/images/blog/charts/best-podcasts-for-road-trips/collage-banner.jpg"
 featured-image-alt: "Podcasts for road trips"
-description: "S-Town, Casefile, Radiolab and 7 more — 10 long-form, bingeable podcasts that will make even the longest road trip fly by."
+description: "S-Town, Casefile and The Rest Is History — bingeable long-form podcasts with hours of gripping stories to make any long drive or road trip fly by."
 permalink: /blog/best-podcasts-for-road-trips
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"

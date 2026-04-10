@@ -4,7 +4,7 @@ title: "8 Best True Crime Podcasts in 2026 (Can't Stop Listening)"
 categories: Podcast
 featured-image: "/images/blog/women/cowomen-UUPpu2sYV6E-unsplash.jpg"
 featured-image-alt: "Person listening to a true crime podcast"
-description: "Crime Junkie, Casefile, Morbid, Rotten Mango and more — the best true crime podcasts for cold cases, investigations and jaw-dropping twists."
+description: "Serial, Crime Junkie, Casefile and more — the best true crime podcasts for 2026 with gripping cold cases, real investigations and jaw-dropping twists."
 permalink: /blog/best-true-crime-podcasts
 podcasts:
   - "Crime Junkie"
