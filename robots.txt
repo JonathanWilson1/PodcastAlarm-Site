@@ -2,7 +2,6 @@ User-agent: *
 Allow: /
 
 Disallow: /docs/
-Disallow: /android
 Disallow: /images/PressKit.pdf
 
 Sitemap: https://www.podcastalarm.app/sitemap.xml
