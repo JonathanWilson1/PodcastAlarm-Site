@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Best Science Podcasts (2026): StarTalk, Ologies & More"
-date-modified: "2026-03-20"
+title: "8 Best Science Podcasts That Will Blow Your Mind"
+date-modified: "2026-04-12"
 categories: Podcasts
 featured-image: "/images/blog/ScienceLovers/laboratory-test-tubes.jpg"
 featured-image-alt: Laboratory with blue test tubes
-description: "StarTalk, Ologies, Science Vs, Radiolab and more — the best science podcasts for curious minds. Updated for 2026 with shows that make complex topics fascinating."
+description: "From astrophysics with Neil deGrasse Tyson to weird biology with Ologies — these 8 science podcasts make learning addictive. Perfect for your morning commute or alarm."
 permalink: /blog/top-podcasts-for-science-lovers
 podcasts:
   - "StarTalk Radio"
