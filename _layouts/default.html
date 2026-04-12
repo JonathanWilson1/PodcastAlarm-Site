@@ -251,6 +251,26 @@
     </div>
   </footer>
 
+  <script>
+    document.addEventListener('click', function(e) {
+      var link = e.target.closest('a');
+      if (!link) return;
+      var href = link.href || '';
+      if (href.includes('apps.apple.com')) {
+        gtag('event', 'app_store_click', {
+          link_url: href,
+          link_text: link.textContent.trim().substring(0, 50),
+          page_path: window.location.pathname
+        });
+      } else if (href.includes('podcasts.apple.com')) {
+        gtag('event', 'podcast_click', {
+          link_url: href,
+          link_text: link.textContent.trim().substring(0, 50),
+          page_path: window.location.pathname
+        });
+      }
+    });
+  </script>
 </body>
 
 </html>
