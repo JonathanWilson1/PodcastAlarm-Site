@@ -2,8 +2,8 @@
 layout: post
 title: "Best Geopolitics Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best geopolitics podcasts 2026"
+featured-image: "/images/blog/charts/best-geopolitics-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best geopolitics podcasts in 2026"
 description: "The Rest Is Politics, Pod Save the World, War on the Rocks and more — the 8 best geopolitics podcasts for 2026."
 permalink: /blog/best-geopolitics-podcasts
 author: "Jonathan Wilson"

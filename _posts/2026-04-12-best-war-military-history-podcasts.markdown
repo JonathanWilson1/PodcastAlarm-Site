@@ -2,8 +2,8 @@
 layout: post
 title: "Best War & Military History Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best war and military history podcasts 2026"
+featured-image: "/images/blog/charts/best-war-military-history-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best war and military history podcasts in 2026"
 description: "Hardcore History, Revolutions and The Rest Is History — 8 best war and military history podcasts for 2026. Deep dives into battles, strategy and soldiers."
 permalink: /blog/best-war-military-history-podcasts
 author: "Jonathan Wilson"

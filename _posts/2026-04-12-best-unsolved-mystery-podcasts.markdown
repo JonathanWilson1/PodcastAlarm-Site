@@ -2,8 +2,8 @@
 layout: post
 title: "Best Unsolved Mystery Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best unsolved mystery podcasts 2026"
+featured-image: "/images/blog/charts/best-unsolved-mystery-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best unsolved mystery podcasts in 2026"
 description: "Crime Junkie, The Trail Went Cold, My Favorite Murder and more — the 8 best unsolved mystery podcasts worth bingeing in 2026."
 permalink: /blog/best-unsolved-mystery-podcasts
 author: "Jonathan Wilson"

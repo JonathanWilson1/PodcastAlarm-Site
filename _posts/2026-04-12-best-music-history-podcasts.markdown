@@ -2,8 +2,8 @@
 layout: post
 title: "Best Music History Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best music history podcasts 2026"
+featured-image: "/images/blog/charts/best-music-history-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best music history podcasts in 2026"
 description: "No Dogs in Space, Switched on Pop, Strong Songs and more — the 8 best music history podcasts for deep listening in 2026."
 permalink: /blog/best-music-history-podcasts
 author: "Jonathan Wilson"

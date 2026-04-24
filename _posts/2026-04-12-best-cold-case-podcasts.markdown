@@ -2,8 +2,8 @@
 layout: post
 title: "Best Cold Case Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best cold case podcasts 2026"
+featured-image: "/images/blog/charts/best-cold-case-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best cold case podcasts in 2026"
 description: "Cold Case Files, The Trail Went Cold, Thin Air and more — the 8 best cold case podcasts for unsolved mystery fans in 2026."
 permalink: /blog/best-cold-case-podcasts
 author: "Jonathan Wilson"

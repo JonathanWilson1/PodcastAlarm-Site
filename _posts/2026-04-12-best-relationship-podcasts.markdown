@@ -2,8 +2,8 @@
 layout: post
 title: "Best Relationship Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best relationship podcasts 2026"
+featured-image: "/images/blog/charts/best-relationship-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best relationship podcasts in 2026"
 description: "Where Should We Begin, Savage Lovecast, Dear Therapists and more — the 8 best relationship podcasts for couples and singles in 2026."
 permalink: /blog/best-relationship-podcasts
 author: "Jonathan Wilson"

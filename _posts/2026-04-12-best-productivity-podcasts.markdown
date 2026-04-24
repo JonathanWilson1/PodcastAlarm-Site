@@ -2,8 +2,8 @@
 layout: post
 title: "Best Productivity Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best productivity podcasts 2026"
+featured-image: "/images/blog/charts/best-productivity-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best productivity podcasts in 2026"
 description: "Deep Questions, Huberman Lab, Before Breakfast and more — the 8 best productivity podcasts to sharpen your focus in 2026."
 permalink: /blog/best-productivity-podcasts
 author: "Jonathan Wilson"

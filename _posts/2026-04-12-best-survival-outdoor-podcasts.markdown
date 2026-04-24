@@ -2,8 +2,8 @@
 layout: post
 title: "Best Survival & Outdoor Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best survival and outdoor podcasts 2026"
+featured-image: "/images/blog/charts/best-survival-outdoor-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best survival and outdoor podcasts in 2026"
 description: "MeatEater, The Dirtbag Diaries, Backpacker Radio and more — the 8 best survival and outdoor podcasts for adventurers in 2026."
 permalink: /blog/best-survival-outdoor-podcasts
 author: "Jonathan Wilson"

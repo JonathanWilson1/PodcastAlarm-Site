@@ -2,8 +2,8 @@
 layout: post
 title: "Best Real Estate Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best real estate podcasts 2026"
+featured-image: "/images/blog/charts/best-real-estate-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best real estate podcasts in 2026"
 description: "BiggerPockets, The Property Podcast, Afford Anything and more — the 8 best real estate podcasts to sharpen your investing game in 2026."
 permalink: /blog/best-real-estate-podcasts
 author: "Jonathan Wilson"

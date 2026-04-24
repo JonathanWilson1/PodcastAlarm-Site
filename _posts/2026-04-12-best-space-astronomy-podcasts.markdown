@@ -2,8 +2,8 @@
 layout: post
 title: "Best Space & Astronomy Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best space and astronomy podcasts 2026"
+featured-image: "/images/blog/charts/best-space-astronomy-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best space and astronomy podcasts in 2026"
 description: "StarTalk, Planetary Radio and Houston We Have a Podcast — the 8 best space and astronomy podcasts for 2026. From Artemis updates to black holes."
 permalink: /blog/best-space-astronomy-podcasts
 author: "Jonathan Wilson"

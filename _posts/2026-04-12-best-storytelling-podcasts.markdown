@@ -2,8 +2,8 @@
 layout: post
 title: "Best Storytelling Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best storytelling and narrative podcasts 2026"
+featured-image: "/images/blog/charts/best-storytelling-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best storytelling podcasts in 2026"
 description: "The Moth, This American Life, Heavyweight and more — the 8 best storytelling and narrative podcasts worth your time in 2026."
 permalink: /blog/best-storytelling-podcasts
 author: "Jonathan Wilson"

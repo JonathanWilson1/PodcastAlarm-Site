@@ -2,8 +2,8 @@
 layout: post
 title: "Best Investing Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best investing podcasts 2026"
+featured-image: "/images/blog/charts/best-investing-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best investing podcasts in 2026"
 description: "We Study Billionaires, Motley Fool Money, Rational Reminder and more — the 8 best investing podcasts for building wealth in 2026."
 permalink: /blog/best-investing-podcasts
 author: "Jonathan Wilson"

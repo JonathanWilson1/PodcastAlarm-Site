@@ -2,8 +2,8 @@
 layout: post
 title: "Best Nature & Wildlife Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best nature and wildlife podcasts 2026"
+featured-image: "/images/blog/charts/best-nature-wildlife-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best nature and wildlife podcasts in 2026"
 description: "Ologies, Nature Podcast, BBC Earth and more — the 8 best nature and wildlife podcasts to listen to in 2026."
 permalink: /blog/best-nature-wildlife-podcasts
 author: "Jonathan Wilson"

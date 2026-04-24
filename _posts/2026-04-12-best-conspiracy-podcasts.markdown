@@ -2,8 +2,8 @@
 layout: post
 title: "Best Conspiracy Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best conspiracy podcasts 2026"
+featured-image: "/images/blog/charts/best-conspiracy-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best conspiracy podcasts in 2026"
 description: "Tin Foil Hat, Those Conspiracy Guys, The Higherside Chats and more — the 8 best conspiracy podcasts worth listening to in 2026."
 permalink: /blog/best-conspiracy-podcasts
 author: "Jonathan Wilson"

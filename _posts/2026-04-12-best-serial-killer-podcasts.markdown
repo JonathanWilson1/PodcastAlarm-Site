@@ -2,8 +2,8 @@
 layout: post
 title: "Best Serial Killer Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best serial killer podcasts 2026"
+featured-image: "/images/blog/charts/best-serial-killer-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best serial killer podcasts in 2026"
 description: "Casefile, Last Podcast on the Left and True Crime Garage — 8 best serial killer podcasts for 2026. In-depth cases, forensic detail and research."
 permalink: /blog/best-serial-killer-podcasts
 author: "Jonathan Wilson"

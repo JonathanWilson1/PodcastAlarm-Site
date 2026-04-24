@@ -2,8 +2,8 @@
 layout: post
 title: "Best Paranormal Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best paranormal podcasts 2026"
+featured-image: "/images/blog/charts/best-paranormal-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best paranormal podcasts in 2026"
 description: "Astonishing Legends, Lore, Jim Harold's Campfire and more — the 8 best paranormal podcasts for supernatural fans in 2026."
 permalink: /blog/best-paranormal-podcasts
 author: "Jonathan Wilson"

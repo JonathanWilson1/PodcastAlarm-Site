@@ -2,8 +2,8 @@
 layout: post
 title: "Best British Comedy Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best British comedy podcasts 2026"
+featured-image: "/images/blog/charts/best-british-comedy-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best British comedy podcasts in 2026"
 description: "Off Menu, No Such Thing As A Fish and Athletico Mince — the 8 best British comedy podcasts for 2026. Panel shows, improv and proper laughs."
 permalink: /blog/best-british-comedy-podcasts
 author: "Jonathan Wilson"

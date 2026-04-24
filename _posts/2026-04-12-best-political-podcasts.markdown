@@ -2,8 +2,8 @@
 layout: post
 title: "Best Political Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best political podcasts 2026"
+featured-image: "/images/blog/charts/best-political-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best political podcasts in 2026"
 description: "Pod Save America, The Rest Is Politics, FiveThirtyEight Politics and more — the 8 best political podcasts to follow in 2026."
 permalink: /blog/best-political-podcasts
 author: "Jonathan Wilson"

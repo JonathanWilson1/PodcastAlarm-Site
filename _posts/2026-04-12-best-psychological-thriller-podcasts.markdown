@@ -2,8 +2,8 @@
 layout: post
 title: "Best Psychological Thriller Podcasts (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
-featured-image-alt: "Best psychological thriller podcasts 2026"
+featured-image: "/images/blog/charts/best-psychological-thriller-podcasts/collage-banner.jpg"
+featured-image-alt: "Artwork collage of the best psychological thriller podcasts in 2026"
 description: "Limetown, Archive 81 and The Magnus Archives — 8 best psychological thriller podcasts for 2026. Twists, tension and unreliable narrators."
 permalink: /blog/best-psychological-thriller-podcasts
 author: "Jonathan Wilson"
