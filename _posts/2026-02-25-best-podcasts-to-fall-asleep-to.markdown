@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "7 Best Podcasts to Fall Asleep To"
+title: "7 Best Podcasts to Fall Asleep To (Updated May 2026)"
 categories: Podcast
 featured-image: "/images/blog/MotivationPodcastsToStart/morningmotivation.jpg"
 featured-image-alt: "Person falling asleep listening to a podcast"
-description: "Struggling to switch off at night? These 7 calming podcasts are designed to help you relax and drift off to sleep naturally."
+description: "Struggling to switch off at night? Updated May 2026 with the best sleep podcasts — from Sleep With Me's rambling stories to Nothing Much Happens."
+date-modified: 2026-05-10
 permalink: /blog/best-podcasts-to-fall-asleep-to
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
@@ -13,6 +14,10 @@ authorImage: "/images/blog/me.png"
 <p>If your brain won't switch off at bedtime, a sleep podcast can work wonders. These shows use calming voices, gentle stories and ambient sounds to help you drift off naturally — no meditation experience required.</p>
 
 {% include callToActionRow.html %}
+
+<h3>What's new this May 2026</h3>
+<p>Sleep With Me and Nothing Much Happens remain the gold standard for bedtime listening — both have grown their libraries significantly, so there's always a fresh episode to drift off to no matter how many you've heard.</p>
+<br>
 
 <br>
 

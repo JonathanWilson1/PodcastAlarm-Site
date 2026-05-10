@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Best Podcasts for Your Commute (2026) — Short Episodes for the Drive"
+title: "Best Podcasts for Your Commute (Updated May 2026) — Short Episodes for the Drive"
 categories: Podcast
 featured-image: "/images/blog/Top10MorningPodcasts/podcastalarmbed.jpg"
 featured-image-alt: "Person listening to a podcast on their commute"
-description: "The Daily, Up First and SmartLess — 10 commute-friendly podcasts sorted by episode length, from 10-minute news to hour-long interviews for the drive."
+description: "Updated May 2026: the best commute podcasts from 10-minute news briefings like Up First to long-form interviews like Diary of a CEO."
+date-modified: 2026-05-10
 permalink: /blog/best-podcasts-for-your-commute
 podcasts:
   - "The Daily"
@@ -24,6 +25,10 @@ authorImage: "/images/blog/me.png"
 <p>Whether you're on the train, driving, or walking to work, podcasts turn dead time into the best part of your day. Here are 10 shows that make any commute fly by.</p>
 
 {% include callToActionRow.html %}
+
+<h3>What's new this May 2026</h3>
+<p>The Daily and Huberman Lab remain the most-downloaded commute companions this year — both continue publishing fresh episodes regularly, so there's always something waiting when you hit the road.</p>
+<br>
 
 <br>
 

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "The Best Gaming Podcasts To Follow"
+title: "The Best Gaming Podcasts To Follow (Updated May 2026)"
 categories: Podcasts
 featured-image: "/images/blog/gamingpodcasts/keyboard.jpg"
 featured-image-alt: "Photo by Mateo Vrbnjak on Unsplash"
-description: "The influence of gaming podcasts have been so massive that new ones spring up daily. With so many gaming podcasts available, this article presents a streamlined pick of the best"
+description: "The best gaming podcasts in May 2026 — from Retronauts' retro deep-dives to Giant Bombcast's weekly news, our picks cover every type of gaming fan."
+date-modified: 2026-05-10
 permalink: /blog/the-best-gaming-podcasts-to-follow
 author: "Telvin I."
 authorImage: "/images/blog/default.png"
@@ -13,6 +14,12 @@ authorImage: "/images/blog/default.png"
 <p>The gaming world has evolved beyond just going to an arcade at the mall or sitting in your room alone. With the emergence of games with better control, gameplay, and graphics - people are more excited than ever to find out the happenings in the gaming industry.</p>
 
 <p>One of such ways to learn about this movement has been through podcasts. The influence of gaming podcasts have been so massive that new ones spring up daily. With so many gaming podcasts available, this article presents a streamlined pick of the best.</p>
+
+{% include callToActionRow.html %}
+
+<h3>What's new this May 2026</h3>
+<p>Retronauts and Giant Bombcast continue to set the bar for gaming podcasts — both are still publishing consistently in 2026, and their deep back catalogues mean there's always something worth going back to.</p>
+<br>
 
 <br><br>
 
