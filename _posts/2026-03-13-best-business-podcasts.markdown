@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Best Business Podcasts (2026)"
+title: "Best Business Podcasts (Updated June 2026)"
+date-modified: "2026-06-01"
 categories: Podcast
 featured-image: "/images/blog/charts/best-business-podcasts/collage-banner.jpg"
 featured-image-alt: "Business podcasts collection"
-description: "Acquired, How I Built This, My First Million and more — 10 business podcasts worth your time in 2026, from startup stories to scaling strategies."
+description: "Acquired, How I Built This, My First Million and more — 10 business podcasts worth your commute in June 2026, from deep-dive histories to startup stories."
 permalink: /blog/best-business-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
@@ -14,6 +15,8 @@ authorImage: "/images/blog/me.png"
 
 {% include callToActionRow.html %}
 
+<h3>What's new this June 2026</h3>
+<p>Acquired continues to set the bar for long-form business storytelling — their deep-dives into companies that reshaped entire industries remain essential listening, and the back catalogue is well worth working through this summer.</p>
 <br>
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Acquired">1. Acquired</a></h3>

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Best Comedy Podcasts (2026)"
+title: "Best Comedy Podcasts (Updated June 2026)"
+date-modified: "2026-06-01"
 categories: Podcast
 featured-image: "/images/blog/charts/best-comedy-podcasts/collage-banner.jpg"
 featured-image-alt: "Comedy podcasts collection"
-description: "Conan O'Brien, SmartLess, Off Menu and 7 more of the funniest comedy podcasts worth listening to in 2026. All actively releasing new episodes."
+description: "Conan O'Brien, SmartLess, Off Menu and 7 more of the funniest podcasts releasing new episodes in June 2026 — all guaranteed to make you laugh out loud."
 permalink: /blog/best-comedy-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
@@ -14,6 +15,8 @@ authorImage: "/images/blog/me.png"
 
 {% include callToActionRow.html %}
 
+<h3>What's new this June 2026</h3>
+<p>Off Menu and Parenting Hell are both deep into new series this year, with episodes that show why long-running comedy podcasts beat one-season shows — the chemistry between the hosts only gets sharper over time.</p>
 <br>
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Conan+O%27Brien+Needs+a+Friend">1. Conan O'Brien Needs a Friend</a></h3>
