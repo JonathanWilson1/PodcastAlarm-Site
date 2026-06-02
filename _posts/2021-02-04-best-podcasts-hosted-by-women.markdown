@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "7 Best Podcasts Hosted by Women (2026)"
-date-modified: "2026-03-13"
+title: "7 Best Podcasts Hosted by Women (Updated June 2026)"
+date-modified: "2026-06-01"
 categories: Podcast
 featured-image: "/images/blog/women/cowomen-UUPpu2sYV6E-unsplash.jpg"
 featured-image-alt: "Photo by CoWomen on Unsplash"
-description: "Brilliant female-hosted podcasts covering true crime, finance, culture and comedy. Featuring Call Your Girlfriend, Jill on Money, and 5 more worth bingeing."
+description: "The best podcasts hosted by women in June 2026 — Call Your Girlfriend, Jill on Money, Death Sex & Money and more essential listens."
 permalink: /blog/7-best-podcasts-hosted-by-women
 author: "Telvin I."
 authorImage: "/images/blog/default.png"
@@ -14,6 +14,10 @@ authorImage: "/images/blog/default.png"
 <p>If you are tired of hearing men speak about things they could never understand. If you are in need of female voices, that are more relatable - then checkout these podcasts hosted by women. These exceptional ladies will give you a dose of whatever you crave - from how to spend your money wisely, to relationship advice and of course, a little bit of a laugh.</p>
 
 <br><br>
+
+<h3>What's new this June 2026</h3>
+<p>Call Your Girlfriend and Death, Sex & Money remain the standout female-hosted shows for thoughtful conversation — both continue releasing fresh, timely episodes that hold up against anything new entering the space.</p>
+<br>
 
 {% include blogPostListItem.html
   title="1) Call Your Girlfriend"
