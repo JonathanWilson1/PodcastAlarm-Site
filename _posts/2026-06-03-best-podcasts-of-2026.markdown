@@ -174,9 +174,3 @@ authorImage: "/images/blog/me.png"
 
 <p>If you are new to podcasts, the easiest starting point is Apple Podcasts (or Spotify if you already have a subscription) — search the show name, hit follow, and the latest episodes will download automatically. From there it is worth picking one daily news show, one true crime or narrative show, and one long-format interview show. That mix covers most listening contexts: commute, walk, gym, washing up.</p>
 
-<br>
-
-<h3>Wake up to a podcast in 2026</h3>
-<p>If a podcast is the first thing you reach for in the morning, why not make it the first thing you actually hear? <a href="/">Podcast Alarm</a> is an iPhone alarm clock that wakes you up to the latest episode of any podcast on this list. Set The Daily as your weekday alarm and you wake up already caught up on the news. Set Crime Junkie on Monday mornings and you have a reason to get out of bed. It is the simplest way to make sure your favourite shows of 2026 actually fit into your day.</p>
-
-{% include callToActionRow.html %}
