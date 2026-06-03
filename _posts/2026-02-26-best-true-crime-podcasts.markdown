@@ -27,7 +27,7 @@ authorImage: "/images/blog/me.png"
 date-modified: "2026-04-24"
 ---
 
-<p>True crime is the most popular podcast genre in the world, and for good reason — a gripping investigation is impossible to stop listening to. Whether you're into cold cases, courtroom dramas, forensic deep dives, or investigative journalism that actually changes outcomes, there's something here for you. These are the 15 best true crime podcasts worth your time in 2026.</p>
+<p>True crime is the most popular podcast genre in the world, and for good reason — a gripping investigation is impossible to stop listening to. Whether you're into cold cases, courtroom dramas, forensic deep dives, or investigative journalism that actually changes outcomes, there's something here for you. These are the 15 best true crime podcasts worth your time in 2026. <a href="/blog/best-podcasts-of-2026">See our full 2026 round-up</a> for the best shows across every other genre too.</p>
 
 {% include callToActionRow.html %}
 
