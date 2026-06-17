@@ -4,11 +4,23 @@ title: "100 Best UK Podcasts — The Ultimate List (2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/100UK2020/collage-banner.jpg"
 featured-image-alt: "Best UK podcasts list"
-description: "The definitive list of the best British podcasts across true crime, comedy, news and culture. Ranked using Apple Charts and real listener data."
+description: "The best British podcasts in 2026 — from The Rest Is Politics and The Diary of a CEO to Off Menu. Ranked using Apple UK Charts and listener data."
 permalink: /blog/charts/top-100-best-uk-podcasts
 redirect_from: /blog/charts/top-100-best-uk-podcasts-2020
+podcasts:
+  - "The Rest Is Politics"
+  - "The Diary of a CEO"
+  - "Off Menu with Ed Gamble & James Acaster"
+  - "The News Agents"
+  - "Shagged Married Annoyed"
+  - "The Rest Is History"
+  - "No Such Thing As A Fish"
+  - "Desert Island Discs"
+  - "Parenting Hell"
+  - "The High Performance Podcast"
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: "2026-06-17"
 ---
 
 <br>
