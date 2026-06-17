@@ -6,8 +6,20 @@ featured-image: "/images/blog/charts/best-podcasts-for-road-trips/collage-banner
 featured-image-alt: "Podcasts for road trips"
 description: "S-Town, Casefile and The Rest Is History — bingeable long-form podcasts with hours of gripping stories to make any long drive or road trip fly by."
 permalink: /blog/best-podcasts-for-road-trips
+podcasts:
+  - "S-Town"
+  - "Casefile True Crime"
+  - "Radiolab"
+  - "Heavyweight"
+  - "Revisionist History"
+  - "99% Invisible"
+  - "Armchair Expert"
+  - "No Such Thing As A Fish"
+  - "Stuff You Should Know"
+  - "The Rest Is History"
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: "2026-05-31"
 ---
 
 <p>The best road trip podcasts aren't just background noise — they're the ones that make you sit in the car park for ten minutes because you need to hear what happens next. Here are 10 shows built for long drives: serialised stories, deep dives, and conversations so good you'll wish the journey was longer.</p>
