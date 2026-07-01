@@ -28,7 +28,7 @@ authorImage: "/images/blog/me.png"
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=F1%3A+Beyond+the+Grid">3. F1: Beyond the Grid</a></h3>
 <img src="/images/blog/charts/best-sports-podcasts/f1-beyond-the-grid.jpg" alt="F1: Beyond the Grid podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
-<p>The official Formula 1 podcast, hosted by Tom Clarkson. Each episode is a long-form interview with a driver, team principal, or key figure from the paddock. You get stories and insights that never make it into the TV coverage — essential listening during race season.</p>
+<p>The official Formula 1 podcast, hosted by Tom Clarkson. Each episode is a long-form interview with a driver, team principal, or key figure from the paddock. You get stories and insights that never make it into the TV coverage — essential listening during race season. For nine more, see our dedicated <a class="text-info" href="/blog/best-f1-podcasts">best F1 podcasts</a> round-up.</p>
 <br style="clear:both;">
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=The+Lowe+Post">4. The Lowe Post</a></h3>

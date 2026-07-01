@@ -6,6 +6,7 @@ featured-image: "/images/blog/charts/best-podcasts-of-2026/collage-banner.jpg"
 featured-image-alt: "Collage of the best podcasts of 2026"
 description: "The 25 best podcasts of 2026 — from Joe Rogan and Crime Junkie to The Daily, New Heights and Radiolab. The shows actually worth your time this year."
 permalink: /blog/best-podcasts-of-2026
+date-modified: 2026-07-01
 podcasts:
   - "The Joe Rogan Experience"
   - "Crime Junkie"
@@ -37,6 +38,8 @@ authorImage: "/images/blog/me.png"
 ---
 
 <p>Podcasting in 2026 is bigger than it has ever been. There are more shows, more formats and more standout episodes than any one person can keep up with — so the question is not "what is out there" but "what is actually worth your time this year." We pulled together the 25 best podcasts of 2026 by looking at the Edison Research Q1 2026 Top 50, the iHeartPodcast Awards, the Golden Globes' new podcast category, and the shows that keep appearing in chart data week after week. The result is a definitive cross-genre list: true crime, news, comedy, business, science, sport, history and narrative storytelling — all actively releasing new episodes right now.</p>
+
+<p><em>Last updated July 2026 — rankings checked against the latest Edison Research US Top 50 and current Apple Podcasts charts.</em></p>
 
 {% include callToActionRow.html %}
 
@@ -144,7 +147,7 @@ authorImage: "/images/blog/me.png"
 
 <h3><a class="text-info" href="https://podcasts.apple.com/us/search?term=Pardon+My+Take">21. Pardon My Take</a></h3>
 <img src="/images/blog/charts/best-podcasts-of-2026/pardon-my-take.jpg" alt="Pardon My Take podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
-<p>Barstool's flagship sports comedy podcast remains one of the most popular sports listens in the US in 2026. Big Cat and PFT Commenter cover the NFL, college football and whatever else is happening in the sports world with a chemistry built over thousands of episodes. Find more in our <a href="/blog/best-sports-podcasts">best sports podcasts</a> round-up.</p>
+<p>Barstool's flagship sports comedy podcast remains one of the most popular sports listens in the US in 2026. Big Cat and PFT Commenter cover the NFL, college football and whatever else is happening in the sports world with a chemistry built over thousands of episodes. Find more in our <a href="/blog/best-sports-podcasts">best sports podcasts</a> round-up, or if you follow motorsport, our <a href="/blog/best-f1-podcasts">best F1 podcasts</a> list.</p>
 <br style="clear:both;">
 
 <h3><a class="text-info" href="https://podcasts.apple.com/us/search?term=Conan+O%27Brien+Needs+a+Friend">22. Conan O'Brien Needs a Friend</a></h3>
