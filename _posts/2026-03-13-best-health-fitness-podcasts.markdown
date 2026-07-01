@@ -1,18 +1,23 @@
 ---
 layout: post
-title: "Best Health & Fitness Podcasts (2026)"
+title: "Best Health & Fitness Podcasts (Updated July 2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-health-fitness-podcasts/collage-banner.jpg"
 featured-image-alt: "Health and fitness podcasts collection"
-description: "Huberman Lab, ZOE Science & Nutrition, The Peter Attia Drive and 7 more — the best health and fitness podcasts to listen to in 2026."
+description: "Huberman Lab, ZOE Science & Nutrition, The Peter Attia Drive and 7 more — the best health and fitness podcasts to listen to in July 2026."
 permalink: /blog/best-health-fitness-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: 2026-07-01
 ---
 
 <p>Health podcasts used to mean vague wellness advice and supplement ads. The best ones now bring real science, proper credentials and genuinely useful information you can apply the same day. Here are 10 that are worth your time in 2026.</p>
 
 {% include callToActionRow.html %}
+
+<h3>What's new this July 2026</h3>
+<p>Huberman Lab and The Peter Attia Drive continue to set the standard for evidence-based health content, with recent series covering strength training longevity protocols and metabolic health that are as useful as ever.</p>
+<br>
 
 <br>
 

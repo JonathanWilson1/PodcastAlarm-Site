@@ -1,18 +1,23 @@
 ---
 layout: post
-title: "Best Economics Podcasts (2026)"
+title: "Best Economics Podcasts (Updated July 2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-economics-podcasts/collage-banner.jpg"
 featured-image-alt: "Economics podcasts collection"
-description: "Planet Money, Freakonomics Radio, EconTalk and more — 10 economics podcasts that make macro, policy, and economic thinking genuinely interesting."
+description: "Planet Money, Freakonomics Radio, EconTalk and more — 10 economics podcasts making macro and policy genuinely interesting in July 2026."
 permalink: /blog/best-economics-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: 2026-07-01
 ---
 
 <p>Economics shapes everything — housing, wages, trade wars, the price of eggs — but most coverage is either too dry or too shallow. These 10 podcasts actually make economic thinking accessible and worth your time.</p>
 
 {% include callToActionRow.html %}
+
+<h3>What's new this July 2026</h3>
+<p>Planet Money and Odd Lots remain essential for making sense of mid-2026's trade shifts and inflation picture — both are releasing timely episodes that cut through the noise better than any news coverage.</p>
+<br>
 
 <br>
 
