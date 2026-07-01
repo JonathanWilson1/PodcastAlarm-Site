@@ -1,18 +1,23 @@
 ---
 layout: post
-title: "Best Documentary Podcasts (2026)"
+title: "Best Documentary Podcasts (Updated July 2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-documentary-podcasts/collage-banner.jpg"
 featured-image-alt: "Documentary podcasts collection"
-description: "Radiolab, Serial, 99% Invisible, Darknet Diaries and more — the 10 best narrative documentary podcasts worth your time in 2026."
+description: "Radiolab, Serial, 99% Invisible, Darknet Diaries and more — the 10 best documentary podcasts to listen to in July 2026."
 permalink: /blog/best-documentary-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: 2026-07-01
 ---
 
 <p>Documentary podcasts do something no other medium can: they put you inside a story for hours, with nothing but voices, sound and your own imagination. These 10 shows are the best at it right now — deeply reported, beautifully produced, and all actively releasing new episodes.</p>
 
 {% include callToActionRow.html %}
+
+<h3>What's new this July 2026</h3>
+<p>Radiolab and 99% Invisible are both releasing strong new episodes this summer, and Serial's long-form investigative format remains the benchmark for the genre — this list continues to hold up.</p>
+<br>
 
 <br>
 
