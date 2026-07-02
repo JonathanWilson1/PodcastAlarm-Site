@@ -1,28 +1,16 @@
 {
   "downloaded": [
-    "s-town.jpg",
-    "heavyweight.jpg"
+    "hardcore-history.jpg",
+    "lore.jpg",
+    "wind-of-change.jpg",
+    "wow-in-the-world.jpg",
+    "brains-on.jpg",
+    "but-why.jpg",
+    "conan-obrien.jpg",
+    "smartless.jpg",
+    "adam-buxton.jpg"
   ],
-  "skipped": [
-    "casefile-true-crime.jpg",
-    "revisionist-history.jpg",
-    "the-rest-is-history.jpg"
-  ],
-  "not_found": [
-    "99 Percent Invisible Roman Mars podcast",
-    "Armchair Expert Dax Shepard podcast",
-    "Stuff You Should Know podcast iHeartRadio"
-  ],
-  "wrong_match": [
-    [
-      "Radiolab podcast WNYC",
-      "Terrestrials",
-      "radiolab.jpg"
-    ],
-    [
-      "No Such Thing As A Fish QI podcast",
-      "Everything Under The Sun",
-      "no-such-thing-as-a-fish.jpg"
-    ]
-  ]
+  "skipped": [],
+  "not_found": [],
+  "wrong_match": []
 }
