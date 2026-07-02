@@ -27,7 +27,7 @@ authorImage: "/images/blog/me.png"
 {% include callToActionRow.html %}
 
 <h3>What's new this May 2026</h3>
-<p>The Daily and Huberman Lab remain the most-downloaded commute companions this year — both continue publishing fresh episodes regularly, so there's always something waiting when you hit the road.</p>
+<p>The Daily and Huberman Lab remain the most-downloaded commute companions this year — both continue publishing fresh episodes regularly, so there's always something waiting when you hit the road. Short on time? Our guide to the <a class="text-info" href="/blog/best-short-podcasts">best short podcasts under 20 minutes</a> is built for quick trips.</p>
 <br>
 
 <br>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10 Best Short Podcasts Under 20 Minutes (2026) — Quick Daily Listens"
+title: "Best Short Podcasts: 10 Quick Listens Under 20 Minutes (2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-short-podcasts/collage-banner.jpg"
 featured-image-alt: "Short podcasts under 20 minutes"
@@ -19,19 +19,29 @@ podcasts:
   - "Science Quickly"
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: "2026-07-01"
 ---
 
-<p>Not every podcast needs to be two hours long. Some of the best shows out there wrap up in under 20 minutes — just enough to learn something, get inspired, or catch up on the news without blocking out your entire morning. Here are 10 worth subscribing to.</p>
+<p><em>Last updated July 2026.</em></p>
+
+<p>Not every podcast needs to be two hours long. The best short podcasts wrap up in under 20 minutes — just enough to learn something, get inspired, or catch up on the news before your coffee's even cold. Whether you're squeezing in a quick listen on the commute, over lunch, or while getting ready in the morning, these are the shows built for a tight schedule. Here are 10 worth subscribing to, most under 15 minutes an episode.</p>
 
 {% include callToActionRow.html %}
+
+<h3>What's new for July 2026</h3>
+<p>We've refreshed this guide for summer and confirmed every show below is still actively releasing new episodes. Each pick now comes with its cover art so you can spot it fast in your podcast app, and we've flagged the true bite-sized winners — <strong>Before Breakfast</strong> and <strong>The Daily Stoic</strong> both come in under 10 minutes. Looking for more? See our companion guides to <a class="text-info" href="/blog/best-podcasts-for-your-commute">the best commute podcasts</a> and <a class="text-info" href="/blog/best-daily-news-podcasts">the best daily news podcasts</a>.</p>
 
 <br>
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Up+First+%E2%80%94+NPR">1. Up First — NPR</a></h3>
+<img src="/images/blog/charts/best-short-podcasts/up-first-npr.jpg" alt="Up First podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
 <p>The three biggest stories of the day in about 10 minutes. NPR's reporters break down what happened overnight and why it matters, every weekday morning. If you only have time for one news podcast, this is the one.</p>
+<br style="clear:both;">
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Short+Wave+%E2%80%94+NPR">2. Short Wave — NPR</a></h3>
+<img src="/images/blog/charts/best-short-podcasts/short-wave-npr.jpg" alt="Short Wave podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
 <p>Hosted by Emily Kwong and Regina Barber, Short Wave covers new scientific discoveries, everyday mysteries, and the research behind the headlines — all in under 15 minutes. The episodes are genuinely fun. You'll find yourself texting facts to people.</p>
+<br style="clear:both;">
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=The+Indicator+from+Planet+Money+%E2%80%94+NPR">3. The Indicator from Planet Money — NPR</a></h3>
 <img src="/images/blog/charts/best-short-podcasts/indicator-planet-money.jpg" alt="The Indicator from Planet Money podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
@@ -69,7 +79,13 @@ authorImage: "/images/blog/me.png"
 <br style="clear:both;">
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Science+Quickly+%E2%80%94+Scientific+American">10. Science Quickly — Scientific American</a></h3>
+<img src="/images/blog/charts/best-short-podcasts/science-quickly.jpg" alt="Science Quickly podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
 <p>Scientific American's podcast delivers the latest research findings in under 10 minutes, twice a week. It's concise and well-sourced, covering everything from climate science to neuroscience. If you want to stay current on actual peer-reviewed research without wading through papers, this is it.</p>
+<br style="clear:both;">
+
+<h2>Keep listening</h2>
+
+<p>Once you've worked through these, line up a few more quick ones. Our <a class="text-info" href="/blog/best-podcasts-for-your-commute">best commute podcasts</a> guide is full of episodes sized for a short drive or train ride, <a class="text-info" href="/blog/best-daily-news-podcasts">the best daily news podcasts</a> covers fast rundowns like Up First, and <a class="text-info" href="/blog/top-10-morning-podcasts">our top morning podcasts</a> are perfect for starting the day.</p>
 
 <br>
 
