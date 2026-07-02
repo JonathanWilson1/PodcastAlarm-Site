@@ -10,7 +10,7 @@ author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
 ---
 
-<p>Scrolling headlines all morning is a terrible way to stay informed. These 10 daily news podcasts give you the full picture in 20 minutes or less — proper journalism, smart analysis and none of the doom-scrolling. Pick one and make it part of your morning.</p>
+<p>Scrolling headlines all morning is a terrible way to stay informed. These 10 daily news podcasts give you the full picture in 20 minutes or less — proper journalism, smart analysis and none of the doom-scrolling. Pick one and make it part of your morning. Want more that fit a tight schedule? See our <a class="text-info" href="/blog/best-short-podcasts">best short podcasts under 20 minutes</a>.</p>
 
 {% include callToActionRow.html %}
 
