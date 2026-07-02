@@ -65,6 +65,8 @@ authorImage: "/images/blog/me.png"
 
 <br>
 
+<p>Got a long journey coming up? A few of these make brilliant company behind the wheel — see our <a class="text-info" href="/blog/best-podcasts-for-road-trips">best podcasts for road trips</a> for the funniest picks to keep the car laughing.</p>
+
 <h2>Start your day laughing</h2>
 
 <p>Set a comedy podcast as your alarm and wake up to something that actually makes you want to get out of bed. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and start every morning with a laugh.</p>

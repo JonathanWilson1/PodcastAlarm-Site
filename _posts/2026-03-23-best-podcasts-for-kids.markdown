@@ -68,6 +68,8 @@ authorImage: "/images/blog/me.png"
 
 <br>
 
+<p>Planning a family drive? Several of these shows are perfect for the car — see our <a class="text-info" href="/blog/best-podcasts-for-road-trips">best podcasts for road trips</a> for kid-friendly picks the whole family can enjoy.</p>
+
 <h2>Wake up to a kid-friendly podcast</h2>
 
 <p>Set a podcast as your child's morning alarm — a much better way to start the day than a buzzer. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and make mornings fun.</p>
