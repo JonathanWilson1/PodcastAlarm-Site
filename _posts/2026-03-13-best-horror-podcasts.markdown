@@ -12,6 +12,8 @@ authorImage: "/images/blog/me.png"
 
 <p>Horror podcasts hit different. No jump scares, no visual cues — just a voice in your ears and your own imagination filling in the gaps. These ten are the best of the genre right now, covering everything from scripted audio dramas to real paranormal encounters, all actively releasing new episodes.</p>
 
+<p>Prefer real-life hauntings, cryptids and UFOs over fiction? Head to our guide to the <a class="text-info" href="/blog/best-paranormal-podcasts">best paranormal podcasts</a>.</p>
+
 {% include callToActionRow.html %}
 
 <br>
