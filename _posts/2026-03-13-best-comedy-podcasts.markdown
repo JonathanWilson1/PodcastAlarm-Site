@@ -65,7 +65,7 @@ authorImage: "/images/blog/me.png"
 
 <br>
 
-<p>Got a long journey coming up? A few of these make brilliant company behind the wheel — see our <a class="text-info" href="/blog/best-podcasts-for-road-trips">best podcasts for road trips</a> for the funniest picks to keep the car laughing.</p>
+<p>Got a long journey coming up? A few of these make brilliant company behind the wheel — see our <a class="text-info" href="/blog/best-podcasts-for-road-trips">best podcasts for road trips</a> for the funniest picks to keep the car laughing. And if it's famous guests you want, several of these hosts turn up in our <a class="text-info" href="/blog/best-celebrity-podcasts">best celebrity podcasts</a> round-up.</p>
 
 <h2>Start your day laughing</h2>
 
