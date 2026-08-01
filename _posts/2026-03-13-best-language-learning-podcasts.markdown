@@ -1,19 +1,22 @@
 ---
 layout: post
-title: "Best Language Learning Podcasts (2026)"
+title: "Best Language Learning Podcasts (Updated August 2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-language-learning-podcasts/collage-banner.jpg"
 featured-image-alt: "Language learning podcasts collection"
-description: "Coffee Break Spanish, InnerFrench, Nihongo con Teppei and 7 more — the best language learning podcasts for 2026 across 8 different languages."
+description: "Coffee Break Spanish, InnerFrench, Nihongo con Teppei and more — the best language learning podcasts across 8 languages, updated August 2026."
 permalink: /blog/best-language-learning-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: 2026-08-01
 ---
 
 <p>Podcasts are one of the most effective ways to learn a language — you get native speakers in your ears, real conversations, and you can fit it into dead time like commutes and dog walks. Here are 10 of the best, covering everything from Spanish and French to Japanese and Korean.</p>
 
 {% include callToActionRow.html %}
 
+<h3>What's new this August 2026</h3>
+<p>Coffee Break Spanish and InnerFrench remain the most consistent options for structured learning — their steady release schedules and quality production continue to make them essential listening in 2026.</p>
 <br>
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Coffee+Break+Spanish">1. Coffee Break Spanish</a></h3>

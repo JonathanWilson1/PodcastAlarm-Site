@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "10 Best Horror Podcasts (2026) — Terrifying Stories to Keep You Up"
+title: "10 Best Horror Podcasts (Updated August 2026) — Terrifying Stories to Keep You Up"
 categories: Podcast
 featured-image: "/images/blog/charts/best-horror-podcasts/collage-banner.jpg"
 featured-image-alt: "Horror podcasts collection"
-description: "The Magnus Protocol, Lore and The NoSleep Podcast — the best horror podcasts for truly terrifying fiction, dark folklore and real unexplained encounters."
+description: "The Magnus Protocol, Lore and The NoSleep Podcast — the best horror podcasts for terrifying fiction and dark folklore, updated August 2026."
 permalink: /blog/best-horror-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: 2026-08-01
 ---
 
 <p>Horror podcasts hit different. No jump scares, no visual cues — just a voice in your ears and your own imagination filling in the gaps. These ten are the best of the genre right now, covering everything from scripted audio dramas to real paranormal encounters, all actively releasing new episodes.</p>
@@ -16,6 +17,8 @@ authorImage: "/images/blog/me.png"
 
 {% include callToActionRow.html %}
 
+<h3>What's new this August 2026</h3>
+<p>The Magnus Protocol and Lore remain the standout picks for horror audio — both series continue delivering consistently unsettling episodes that hold up against anything new entering the space.</p>
 <br>
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=The+Magnus+Protocol">1. The Magnus Protocol</a></h3>
