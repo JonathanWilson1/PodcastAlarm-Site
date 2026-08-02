@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "10 Best Podcasts for Road Trips (2026) — Hours of Gripping Listens"
+title: "Best Road Trip Podcasts 2026: 10 Long-Drive Listens"
 categories: Podcast
 featured-image: "/images/blog/charts/best-podcasts-for-road-trips/collage-banner.jpg"
-featured-image-alt: "Podcasts for road trips"
-description: "S-Town, Casefile and The Rest Is History — bingeable long-form podcasts with hours of gripping stories to make any long drive or road trip fly by."
+featured-image-alt: "Best road trip podcasts 2026"
+description: "Best road trip podcasts for 2026 — S-Town, Casefile and The Rest Is History — bingeable long-form stories to make any long drive fly by."
 permalink: /blog/best-podcasts-for-road-trips
 podcasts:
   - "S-Town"
@@ -28,17 +28,17 @@ podcasts:
   - "But Why: A Podcast for Curious Kids"
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
-date-modified: "2026-07-01"
+date-modified: "2026-08-02"
 ---
 
-<p><em>Last updated July 2026.</em></p>
+<p><em>Last updated August 2026.</em></p>
 
 <p>The best road trip podcasts aren't just background noise — they're the ones that make you sit in the car park for ten minutes because you need to hear what happens next. Here are the shows built for long drives: serialised stories, deep dives, and conversations so good you'll wish the journey was longer. We've grouped them so you can jump straight to what fits your trip — <a class="text-info" href="#long-drives">epic long-drive listens</a>, <a class="text-info" href="#funny">funny podcasts for the car</a>, <a class="text-info" href="#family">family road trips with kids</a>, or <a class="text-info" href="#solo">a solo drive</a>.</p>
 
 {% include callToActionRow.html %}
 
 <h3>What's new for summer 2026</h3>
-<p>This is peak road-trip season, so we've expanded the guide beyond the core top 10. There are now dedicated picks for <strong>long drives</strong> (multi-hour epics like Hardcore History), <strong>funny podcasts</strong> to keep the car laughing, and <strong>family road trips</strong> with kid-friendly shows the whole car can enjoy. Every show below is still actively releasing episodes.</p>
+<p>Updated for August 2026 — peak road-trip season — with fresh artwork for every pick and a re-check that every show below is still actively releasing episodes. The guide now runs well beyond the core top 10, with dedicated picks for <strong>long drives</strong> (multi-hour epics like Hardcore History), <strong>funny podcasts</strong> to keep the car laughing, and <strong>family road trips</strong> with kid-friendly shows the whole car can enjoy.</p>
 
 <br>
 
@@ -53,7 +53,9 @@ date-modified: "2026-07-01"
 <br style="clear:both;">
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Radiolab">3. Radiolab</a></h3>
+<img src="/images/blog/charts/best-podcasts-for-road-trips/radiolab.jpg" alt="Radiolab podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
 <p>Lulu Miller and Latif Nasser explore science, philosophy, and the strange corners of human experience with some of the most creative sound design in podcasting. Episodes run 30-60 minutes and cover everything from the nature of colour to the ethics of gene editing. Perfect for sparking a conversation with whoever's in the passenger seat.</p>
+<br style="clear:both;">
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Heavyweight">4. Heavyweight</a></h3>
 <img src="/images/blog/charts/best-podcasts-for-road-trips/heavyweight.jpg" alt="Heavyweight podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
@@ -66,16 +68,24 @@ date-modified: "2026-07-01"
 <br style="clear:both;">
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=99%25+Invisible">6. 99% Invisible</a></h3>
+<img src="/images/blog/charts/best-podcasts-for-road-trips/99-invisible.jpg" alt="99% Invisible podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
 <p>Roman Mars explains the hidden design decisions behind everyday things — why hospital gowns look the way they do, how a font ended up on every street sign, why revolving doors exist. Episodes are around 30 minutes, tightly produced, and endlessly interesting. Stack a few and the hours disappear.</p>
+<br style="clear:both;">
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Armchair+Expert">7. Armchair Expert</a></h3>
+<img src="/images/blog/charts/best-podcasts-for-road-trips/armchair-expert.jpg" alt="Armchair Expert podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
 <p>Dax Shepard and Monica Padman have long, honest conversations with actors, scientists, and authors. Episodes run nearly two hours, which sounds like a lot until you're three hours into a drive and realise you've listened to two back-to-back without noticing. The chemistry between the hosts makes everything feel relaxed and real.</p>
+<br style="clear:both;">
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=No+Such+Thing+As+A+Fish">8. No Such Thing As A Fish</a></h3>
+<img src="/images/blog/charts/best-podcasts-for-road-trips/no-such-thing-as-a-fish.jpg" alt="No Such Thing As A Fish podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
 <p>The researchers behind QI share the most bizarre facts they've found each week. Episodes are about 50 minutes of four funny people trying to one-up each other with increasingly absurd trivia. It's light, it's quick, and you can rattle through five or six episodes on a decent road trip.</p>
+<br style="clear:both;">
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Stuff+You+Should+Know">9. Stuff You Should Know</a></h3>
+<img src="/images/blog/charts/best-podcasts-for-road-trips/stuff-you-should-know.jpg" alt="Stuff You Should Know podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
 <p>Josh Clark and Chuck Bryant have been explaining how things work since 2008, and they've covered nearly everything — from how landfills work to the history of LSD to the science behind quicksand. Episodes run about an hour, the tone is like two mates chatting, and with over 2,700 episodes you'll never hit the end of the back catalogue.</p>
+<br style="clear:both;">
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=The+Rest+Is+History">10. The Rest Is History</a></h3>
 <img src="/images/blog/charts/best-podcasts-for-road-trips/the-rest-is-history.jpg" alt="The Rest Is History podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
