@@ -1,19 +1,22 @@
 ---
 layout: post
-title: "Best History Podcasts (2026)"
+title: "Best History Podcasts (Updated August 2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-history-podcasts/collage-banner.jpg"
 featured-image-alt: "History podcasts collection"
-description: "The Rest Is History, Hardcore History, Fall of Civilizations and 7 more — the best history podcasts worth your time in 2026."
+description: "The Rest Is History, Hardcore History, Fall of Civilizations and more — the best history podcasts worth your time, updated August 2026."
 permalink: /blog/best-history-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: 2026-08-01
 ---
 
 <p>History podcasts are having a moment. Whether you want a cinematic deep dive into ancient Rome or a quick 30-minute episode on a topic you never knew existed, there's a show for you. Here are 10 of the best.</p>
 
 {% include callToActionRow.html %}
 
+<h3>What's new this August 2026</h3>
+<p>The Rest Is History and Hardcore History remain the gold standard for history podcasting — both continue releasing landmark episodes that earn their place at the top of any listening list.</p>
 <br>
 
 <h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=The+Rest+Is+History">1. The Rest Is History</a></h3>
