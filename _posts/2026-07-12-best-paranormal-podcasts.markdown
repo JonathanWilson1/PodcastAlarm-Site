@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Best Paranormal Podcasts (2026)"
+title: "Best Paranormal Podcasts 2026: 15 Ghost & UFO Shows"
 categories: Podcast
 featured-image: "/images/blog/charts/best-paranormal-podcasts/collage-banner.jpg"
 featured-image-alt: "Artwork collage of the best paranormal podcasts in 2026"
-description: "Astonishing Legends, Uncanny, Coast to Coast AM and more — the 15 best paranormal podcasts for ghosts, cryptids and UFO fans in 2026."
+description: "Best paranormal podcasts 2026 — Astonishing Legends, Uncanny, Lore and Coast to Coast AM — 15 top shows for ghosts, cryptids and UFO fans."
 permalink: /blog/best-paranormal-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: "2026-08-02"
 podcasts:
   - "Astonishing Legends"
   - "Lore"
@@ -25,6 +26,8 @@ podcasts:
   - "Blurry Creatures"
   - "Homespun Haints"
 ---
+
+<p><em>Last updated August 2026.</em></p>
 
 <p>Whether you're a true believer or a devoted sceptic, a good paranormal podcast makes you pause and wonder. These shows cover everything from ghosts and hauntings to UFOs, cryptids and the genuinely unexplained — and the best ones take the subject matter seriously without losing their sense of fun. Here are the 15 worth loading up in 2026, grouped loosely from real-encounter storytelling to full-on cryptid and UFO investigation.</p>
 

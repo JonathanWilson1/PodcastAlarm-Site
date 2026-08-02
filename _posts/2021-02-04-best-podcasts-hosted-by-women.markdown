@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "7 Best Podcasts Hosted by Women (Updated June 2026)"
-date-modified: "2026-06-01"
+title: "7 Best Podcasts Hosted by Women (Updated August 2026)"
+date-modified: "2026-08-02"
 categories: Podcast
 featured-image: "/images/blog/women/cowomen-UUPpu2sYV6E-unsplash.jpg"
 featured-image-alt: "Photo by CoWomen on Unsplash"
-description: "The best podcasts hosted by women in June 2026 — Call Your Girlfriend, Jill on Money, Death Sex & Money and more essential listens."
+description: "The best podcasts hosted by women, updated August 2026 — Call Your Girlfriend, Jill on Money, Death, Sex & Money and more essential listens."
 permalink: /blog/7-best-podcasts-hosted-by-women
 author: "Telvin I."
 authorImage: "/images/blog/default.png"
@@ -15,7 +15,7 @@ authorImage: "/images/blog/default.png"
 
 <br><br>
 
-<h3>What's new this June 2026</h3>
+<h3>What's new this August 2026</h3>
 <p>Call Your Girlfriend and Death, Sex & Money remain the standout female-hosted shows for thoughtful conversation — both continue releasing fresh, timely episodes that hold up against anything new entering the space.</p>
 <br>
 
@@ -35,7 +35,7 @@ authorImage: "/images/blog/default.png"
 
 {% include blogPostListItem.html
   title="3) The History Chicks"
-  content="The world is known to be full of information, the problem is that a large chunk of it is wrong -  mostly consisting of rumours and propaganda. Science VS is dedicated to dismantling this false information, one podcast episode at a time. Consisting of a team of fact-checkers – they tackle topics such as UFO sightings, diseases, and historical events."
+  content="History lessons at school rarely gave women their due — The History Chicks sets out to fix that. Hosts Beckett Graham and Susan Vollenweider profile the women who shaped history, from queens and activists to fictional icons, in warm, deeply researched episodes. It is engaging, funny and packed with the stories you were never taught."
   link="http://thehistorychicks.com/"
   image="/images/blog/women/chick.jpg"
 %}
