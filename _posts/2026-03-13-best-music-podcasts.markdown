@@ -1,18 +1,22 @@
 ---
 layout: post
-title: "Best Music Podcasts (2026)"
+title: "Best Music Podcasts (Updated September 2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-music-podcasts/collage-banner.jpg"
 featured-image-alt: "Music podcasts collection"
-description: "Song Exploder, Switched On Pop, Dissect and 7 more of the best music podcasts in 2026 — covering history, interviews, production and discovery."
+description: "Song Exploder, Dissect, Switched On Pop and more — the best music podcasts for September 2026, covering production, interviews and discovery."
 permalink: /blog/best-music-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: 2026-09-01
 ---
 
 <p>Whether you want to understand why a song works, discover something new, or hear your favourite artists talk honestly about their craft — there's a music podcast for that. These ten are all actively releasing episodes and genuinely worth your time.</p>
 
 {% include callToActionRow.html %}
+<h3>What's new this September 2026</h3>
+<p>The music podcast world remains compelling — Song Exploder and Dissect in particular continue to set the standard for in-depth listening, with both shows drawing critical praise for their craftsmanship and originality.</p>
+<br>
 
 <br>
 
