@@ -1,18 +1,22 @@
 ---
 layout: post
-title: "Best News & Politics Podcasts (2026)"
+title: "Best News & Politics Podcasts (Updated September 2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-news-politics-podcasts/collage-banner.jpg"
 featured-image-alt: "News and politics podcasts collection"
-description: "The Daily, The Rest Is Politics, Global News Podcast and more — 10 news and politics podcasts for staying informed in 2026."
+description: "The Daily, The Rest Is Politics, Global News Podcast and more — the best news and politics podcasts for September 2026."
 permalink: /blog/best-news-politics-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: 2026-09-01
 ---
 
 <p>There is no shortage of news podcasts, but most of them are forgettable. These ten actually earn their place in your feed — sharp daily briefings, proper political analysis, and international perspectives you won't get from doomscrolling Twitter.</p>
 
 {% include callToActionRow.html %}
+<h3>What's new this September 2026</h3>
+<p>The news podcast landscape stays competitive, but The Daily and The Rest Is Politics remain essential — both shows continue to deliver the sharp, consistent reporting that earned their place on this list.</p>
+<br>
 
 <br>
 

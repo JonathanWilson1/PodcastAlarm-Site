@@ -1,18 +1,22 @@
 ---
 layout: post
-title: "Best Mental Health Podcasts (2026)"
+title: "Best Mental Health Podcasts (Updated September 2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-mental-health-podcasts/collage-banner.jpg"
 featured-image-alt: "Mental health podcasts collection"
-description: "Hidden Brain, Unlocking Us, Therapy for Black Girls and 7 more of the best mental health podcasts worth listening to in 2026."
+description: "Hidden Brain, Unlocking Us, Therapy for Black Girls and more — the best mental health podcasts for September 2026."
 permalink: /blog/best-mental-health-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: 2026-09-01
 ---
 
 <p>Mental health podcasts have gone from niche to essential. Whether you want research-backed strategies from psychologists, raw conversations about what it actually means to be human, or practical tools you can use today, these ten shows deliver. All are actively releasing new episodes in 2026.</p>
 
 {% include callToActionRow.html %}
+<h3>What's new this September 2026</h3>
+<p>The mental health podcast space keeps growing, but Hidden Brain and The Mel Robbins Podcast continue to stand out — both shows maintain exceptional quality and remain among the most-followed wellness podcasts in the world.</p>
+<br>
 
 <br>
 
