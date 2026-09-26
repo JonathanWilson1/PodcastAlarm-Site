@@ -65,5 +65,7 @@ podcasts:
 <p>Not fiction, but every episode plays like a thriller. Jack Rhysider tells true stories of cybercrime, hacking and digital espionage with the pacing and tension of a screenplay. Episodes on nation-state hackers, casino heists and dark web marketplaces are as gripping as anything scripted.</p>
 <br style="clear:both;">
 
+<p>Want the dread turned up? Our <a class="text-info" href="/blog/best-horror-podcasts">best horror podcasts</a> round-up covers full audio drama and anthology horror, and the <a class="text-info" href="/blog/best-paranormal-podcasts">best paranormal podcasts</a> guide does the same for real encounters.</p>
+
 <h2>Start Your Morning with a Great Podcast</h2>
 <p>Set any of these podcasts as your alarm with <a class="text-info" href="https://apps.apple.com/app/podcast-alarm-player-alarm/id1441890371">Podcast Alarm</a> and wake up to something worth listening to.</p>

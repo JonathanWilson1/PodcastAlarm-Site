@@ -1,0 +1,31 @@
+<!--
+  Prominent App Store CTA card.
+
+  Usage (an include tag with these three optional parameters):
+    heading="Wake up to a horror podcast"
+    body="Set any episode below as your alarm."
+    button="Get Podcast Alarm — free on iOS"
+
+  All parameters optional; sensible defaults below. Note: do NOT write a
+  literal include tag in this comment — Liquid still parses tags inside HTML
+  comments, so the include would recurse into itself and fail the build with
+  "Nesting too deep".
+
+  NOTE: the download link MUST point at apps.apple.com — the delegated click
+  listener in _layouts/default.html fires the GA4 `app_store_click` event for
+  any <a> whose href contains apps.apple.com. Don't wrap it in JS or swap the
+  host or the conversion stops being measurable.
+-->
+<div class="app-cta">
+  <div class="app-cta__text">
+    <p class="app-cta__heading">{{ include.heading | default: "Wake up to your favourite podcast" }}</p>
+    <p class="app-cta__body">{{ include.body | default: "Podcast Alarm turns any episode into your morning alarm. Queue a show tonight, wake up to it tomorrow." }}</p>
+  </div>
+  <div class="app-cta__action">
+    <a class="app-cta__button" target="_blank" rel="noopener"
+       href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">
+      {{ include.button | default: "Get Podcast Alarm — free on iOS" }}
+    </a>
+    <span class="app-cta__meta">Free download &middot; iPhone &amp; iPad</span>
+  </div>
+</div>

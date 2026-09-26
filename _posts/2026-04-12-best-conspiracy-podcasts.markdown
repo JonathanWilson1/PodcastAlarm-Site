@@ -65,5 +65,7 @@ podcasts:
 <p>Ben Kissel, Marcus Parks and Henry Zebrowski cover serial killers, cults, UFOs and conspiracy theories with exhaustive research wrapped in dark comedy. Their conspiracy episodes are some of their best work — deeply researched and genuinely hilarious.</p>
 <br style="clear:both;">
 
+<p>Several of these hosts cover the unexplained too — see our <a class="text-info" href="/blog/best-paranormal-podcasts">best paranormal podcasts</a> guide for ghosts, cryptids and UFO shows, or the <a class="text-info" href="/blog/best-horror-podcasts">best horror podcasts</a> if you prefer your scares scripted.</p>
+
 <h2>Start Your Morning with a Great Podcast</h2>
 <p>Set any of these podcasts as your alarm with <a class="text-info" href="https://apps.apple.com/app/podcast-alarm-player-alarm/id1441890371">Podcast Alarm</a> and wake up to something worth listening to.</p>
