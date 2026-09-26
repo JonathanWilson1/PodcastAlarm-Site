@@ -1,23 +1,20 @@
 {
-  "downloaded": [],
+  "downloaded": [
+    "magnus-archives-horror.jpg",
+    "malevolent-horror.jpg",
+    "silt-verses-horror.jpg",
+    "white-vault-horror.jpg",
+    "video-palace-horror.jpg",
+    "black-tapes-horror.jpg",
+    "limetown-horror.jpg",
+    "creepy-podcast-horror.jpg",
+    "were-alive-horror.jpg",
+    "scared-to-death-horror.jpg",
+    "unwell-horror.jpg"
+  ],
   "skipped": [
-    "magnus-protocol-horror.jpg",
-    "nosleep-podcast-horror.jpg",
-    "lore-podcast-horror.jpg",
-    "old-gods-appalachia-horror.jpg",
-    "knifepoint-horror-podcast.jpg"
+    "magnus-protocol-horror.jpg"
   ],
-  "not_found": [
-    "Spooked podcast Glynn Washington",
-    "Uncanny podcast Danny Robins BBC",
-    "Radio Rental podcast Rainn Wilson",
-    "We're Alive zombie audio drama podcast"
-  ],
-  "wrong_match": [
-    [
-      "Astonishing Legends podcast",
-      "Richard Hatem's Paranormal Bookshelf",
-      "astonishing-legends-horror.jpg"
-    ]
-  ]
+  "not_found": [],
+  "wrong_match": []
 }

@@ -67,6 +67,8 @@ authorImage: "/images/blog/me.png"
 
 <p>Got a long journey coming up? A few of these make brilliant company behind the wheel — see our <a class="text-info" href="/blog/best-podcasts-for-road-trips">best podcasts for road trips</a> for the funniest picks to keep the car laughing. And if it's famous guests you want, several of these hosts turn up in our <a class="text-info" href="/blog/best-celebrity-podcasts">best celebrity podcasts</a> round-up.</p>
 
+<p>Need a change of tone? Our <a class="text-info" href="/blog/best-horror-podcasts">best horror podcasts</a> list is the exact opposite of this page, in the best way.</p>
+
 <h2>Start your day laughing</h2>
 
 <p>Set a comedy podcast as your alarm and wake up to something that actually makes you want to get out of bed. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and start every morning with a laugh.</p>

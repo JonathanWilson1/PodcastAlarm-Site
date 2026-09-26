@@ -65,5 +65,7 @@ podcasts:
 <p>Steven Pacheco examines unsolved cases with a focus on evidence analysis and logical deduction. He walks through timelines, witness statements and physical evidence methodically. Each episode ends with his own theory, which is always well-reasoned even when the case seems impossible.</p>
 <br style="clear:both;">
 
+<p>If the cases here leave you wanting something stranger, our guide to the <a class="text-info" href="/blog/best-paranormal-podcasts">best paranormal podcasts</a> covers ghosts, cryptids and UFOs, and the <a class="text-info" href="/blog/best-horror-podcasts">best horror podcasts</a> list has the scripted audio dramas.</p>
+
 <h2>Start Your Morning with a Great Podcast</h2>
 <p>Set any of these podcasts as your alarm with <a class="text-info" href="https://apps.apple.com/app/podcast-alarm-player-alarm/id1441890371">Podcast Alarm</a> and wake up to something worth listening to.</p>

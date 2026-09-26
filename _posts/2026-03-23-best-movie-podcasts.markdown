@@ -68,6 +68,8 @@ authorImage: "/images/blog/me.png"
 
 <br>
 
+<p>For interviews with the people making the films rather than critics discussing them, see our <a class="text-info" href="/blog/best-celebrity-podcasts">best celebrity podcasts</a> guide.</p>
+
 <h2>Wake up to film talk</h2>
 
 <p>Set a movie podcast as your morning alarm and start the day with great cinema discussion. <a class="text-info" href="https://apps.apple.com/app/podcast-alarm/id1441890371?ct={{ page.permalink | slugify }}&amp;mt=8">Download Podcast Alarm</a> and wake up to your next favourite show.</p>
