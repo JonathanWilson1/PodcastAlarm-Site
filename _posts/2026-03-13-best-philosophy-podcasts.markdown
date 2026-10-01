@@ -1,18 +1,23 @@
 ---
 layout: post
-title: "Best Philosophy Podcasts (2026)"
+title: "Best Philosophy Podcasts (Updated October 2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-philosophy-podcasts/collage-banner.jpg"
 featured-image-alt: "Philosophy podcasts collection"
-description: "Philosophize This!, Very Bad Wizards, Philosophy Bites and 7 more — the best philosophy podcasts to sharpen your thinking in 2026."
+description: "Philosophize This!, Very Bad Wizards, Philosophy Bites and 7 more — the best philosophy podcasts to sharpen your thinking, updated October 2026."
 permalink: /blog/best-philosophy-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: 2026-10-01
 ---
 
 <p>Philosophy podcasts are some of the best listening you can find. Whether you want a rigorous walkthrough of Kant or a lively argument about free will over drinks, these ten shows deliver. Here are the best philosophy podcasts worth your time right now.</p>
 
 {% include callToActionRow.html %}
+
+<h3>What's new this October 2026</h3>
+<p>Philosophize This! continues its comprehensive walkthrough of the philosophical canon, while The Gray Area keeps applying big ideas to current events — both are still some of the sharpest shows in the space.</p>
+<br>
 
 <br>
 
