@@ -1,18 +1,23 @@
 ---
 layout: post
-title: "Best Podcasts for Anxiety & Stress (2026)"
+title: "Best Podcasts for Anxiety & Stress (Updated October 2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-podcasts-for-anxiety-stress-relief/collage-banner.jpg"
 featured-image-alt: "Podcasts for anxiety and stress relief"
-description: "Ten Percent Happier, The Anxiety Coaches Podcast, Tara Brach and 7 more of the best podcasts for anxiety and stress relief in 2026."
+description: "Ten Percent Happier, The Anxiety Coaches Podcast, Tara Brach and 7 more — the best podcasts for anxiety and stress relief, updated October 2026."
 permalink: /blog/best-podcasts-for-anxiety-stress-relief
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
+date-modified: 2026-10-01
 ---
 
 <p>Anxiety doesn't always announce itself. Sometimes it's a tight chest on a Sunday evening, sometimes it's a 3am thought spiral that won't quit. These ten podcasts won't replace professional help, but they're genuinely useful companions — run by therapists, meditation teachers and people who've lived through it themselves. All are actively releasing episodes in 2026.</p>
 
 {% include callToActionRow.html %}
+
+<h3>What's new this October 2026</h3>
+<p>Ten Percent Happier, now fully independent, continues to release excellent episodes three times a week — and The Anxious Truth remains one of the most honest, practical anxiety shows around.</p>
+<br>
 
 <br>
 
