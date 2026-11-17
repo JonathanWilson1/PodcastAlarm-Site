@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Podcast Alarm
-email: "jonathan@podcastalarm.app"
+email: "support@boxroomsoftware.com"
 description: >-
   Alarm clock app that plays podcast episodes whenever you want.
   You can even wake up to the latest episode each day.
