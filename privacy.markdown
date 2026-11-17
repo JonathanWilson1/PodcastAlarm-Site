@@ -5,7 +5,7 @@ permalink: /privacy-policy
 ---
 Last updated February 27, 2026
 
-Thank you for choosing to be part of Podcast Alarm (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at jonathan@podcastalarm.app.
+Thank you for choosing to be part of Podcast Alarm (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at support@boxroomsoftware.com.
 
 When you visit our app and website and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our app and services.
 
@@ -85,7 +85,7 @@ We do not knowingly solicit data from or market to children under 13 years of ag
 
 In Short: Depending on your region, you may have rights that allow you greater access to and control over your personal information.
 
-**European Economic Area (EEA) and UK residents:** Under the GDPR and UK GDPR, you have the right to (i) request access and obtain a copy of your personal information, (ii) request rectification or erasure, (iii) restrict the processing of your personal information, and (iv) if applicable, data portability. You may also have the right to object to the processing of your personal information. To exercise these rights, contact us at jonathan@podcastalarm.app.
+**European Economic Area (EEA) and UK residents:** Under the GDPR and UK GDPR, you have the right to (i) request access and obtain a copy of your personal information, (ii) request rectification or erasure, (iii) restrict the processing of your personal information, and (iv) if applicable, data portability. You may also have the right to object to the processing of your personal information. To exercise these rights, contact us at support@boxroomsoftware.com.
 
 If you believe we are unlawfully processing your personal information, you have the right to complain to your local data protection supervisory authority.
 
@@ -97,4 +97,4 @@ We may update this privacy policy from time to time. The updated version will be
 
 11. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 
-If you have questions or comments about this policy, you may email us at jonathan@podcastalarm.app.
+If you have questions or comments about this policy, you may email us at support@boxroomsoftware.com.
